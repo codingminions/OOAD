@@ -1,2 +1,3 @@
 # OOAD
-Project -- Friendly Neighborhood Car Dealership Simulation
+This repo will act as the source for all assignments for the OOAD course.
+
