@@ -13,6 +13,8 @@ public class ManageStaff{
     String staffType;
     Integer numVehicleSold = 0;
 
+    // We use PolyMorphism to create multiple arraylist of type ManageStaff for each staff type
+    // executing ManageStaff in multiple ways.
     public ArrayList<ManageStaff> internTeam = new ArrayList<>();
     public ArrayList<ManageStaff> mechTeam = new ArrayList<>();
     public ArrayList<ManageStaff> salesTeam = new ArrayList<>();

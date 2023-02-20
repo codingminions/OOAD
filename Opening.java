@@ -1,5 +1,6 @@
 import java.util.Random;
 
+// Example of Inheritance: Opening class inherits from the FNCD class.
 public class Opening extends FNCD{
     public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin){
         System.out.println("Opening... (current budddget $" + fncdAdmin.operatingBudget + ")");

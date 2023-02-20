@@ -21,5 +21,6 @@ vehicleDesired and salesPerson from their respective class instances. Finally, w
  simulation:Opening, Washing, Repairing, Selling and EndOfDay operations which were an extension of the FNCD class. FNCD class is used to track 
 the buyers, entire staff fleet and vehicle fleet and uses function like getDateDay() to track if the FNCD will be open on the day of the simulation. 
 
-**-- OO ELEMENTS:**
-
+**--OO ELEMENTS--**
+1. Inheritance: Example of Inheritance: Opening class inherits from the FNCD class (Opening.java)
+2. Abstraction: The end user doesn't need to know the details of the operations and hence this is a good examples of Abstraction. (Main.java)
