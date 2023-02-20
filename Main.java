@@ -12,6 +12,7 @@ public class Main {
         }
         System.out.print("\n\n\n");
         // Print the report at the end of the month.
-        fncdAdmin.PrintReportOperation(staffAdmin, vehicleAdmin, fncdAdmin);
+        System.out.println("****FNCD 30 Days Simulation Report****");
+	fncdAdmin.PrintReportOperation(staffAdmin, vehicleAdmin, fncdAdmin);
     }
 }

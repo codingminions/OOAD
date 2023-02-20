@@ -23,4 +23,4 @@ the buyers, entire staff fleet and vehicle fleet and uses function like getDateD
 
 **--OO ELEMENTS--**
 1. Inheritance: Example of Inheritance: Opening class inherits from the FNCD class (Opening.java)
-2. Abstraction: The end user doesn't need to know the details of the operations and hence this is a good examples of Abstraction. (Main.java)
+2. Abstraction: The end user doesn't need to know the details of the operations and hence this is a good examples of Abstraction. (Main.java).

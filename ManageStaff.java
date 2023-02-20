@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 
 // ManageStaff class is used to manage staff details such as name, salary, bonus, etc.
+// ManageStaff Class.
 public class ManageStaff{
     String name;
     Integer TotalDaysWorked =0;
