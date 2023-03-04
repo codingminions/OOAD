@@ -5,14 +5,15 @@ import java.util.Collections;
 // EndOfDay class.
 public class EndOfDay extends FNCD{
     // Constructor for the EndOfDay class that calls the constructor of the FNCD class.
-    public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin, ArrayList<Subscriber> publisherList){
+    public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin){
         incrementTotalNumberOfDaysWorkedForStaff(staffAdmin);
-        paySalaryToStaff(staffAdmin, fncdAdmin, publisherList);
+        paySalaryToStaff(staffAdmin);
 
         ManageStaff salesperson = possibleQuittingStaffDetails(staffAdmin.salesTeam);
         ManageStaff mech = possibleQuittingStaffDetails(staffAdmin.mechTeam);
         ManageStaff intern = possibleQuittingStaffDetails(staffAdmin.internTeam);
 
+        // Track quitting staff.
         trackQuittingStaff(salesperson, staffAdmin, fncdAdmin);
         trackQuittingStaff(mech, staffAdmin, fncdAdmin);
         trackQuittingStaff(intern, staffAdmin, fncdAdmin);
@@ -34,34 +35,15 @@ public class EndOfDay extends FNCD{
     }
 
     // Pay salary to staff.
-    public void paySalaryToStaff(ManageStaff staffAdmin, FNCD fncdAdmin, ArrayList<Subscriber> publisherList){
+    public void paySalaryToStaff(ManageStaff staffAdmin){
         for(int i=0;i<staffAdmin.salesTeam.size();i++){
             staffAdmin.salesTeam.get(i).setTotalSalary();
-            Double salesPersonSalary = staffAdmin.salesTeam.get(i).getTotalSalary();
-            // Observer pattern is used here to push the event information to the subscribers.
-            fncdAdmin.pushEventInfoToSubscribers(salesPersonSalary,0.0d, null, publisherList);
         }
-
         for(int i=0;i<staffAdmin.mechTeam.size();i++){
             staffAdmin.mechTeam.get(i).setTotalSalary();
-            Double mechPersonSalary = staffAdmin.salesTeam.get(i).getTotalSalary();
-            // Observer pattern is used here to push the event information to the subscribers.
-            fncdAdmin.pushEventInfoToSubscribers(mechPersonSalary,0.0d, null, publisherList);
-
         }
-
         for(int i=0;i<staffAdmin.internTeam.size();i++){
             staffAdmin.internTeam.get(i).setTotalSalary();
-            Double internPersonSalary = staffAdmin.salesTeam.get(i).getTotalSalary();
-            // Observer pattern is used here to push the event information to the subscribers.
-            fncdAdmin.pushEventInfoToSubscribers(internPersonSalary,0.0d, null, publisherList);
-        }
-
-        for(int i=0;i<staffAdmin.driverTeam.size();i++){
-            staffAdmin.driverTeam.get(i).setTotalSalary();
-            Double driverPersonSalary = staffAdmin.salesTeam.get(i).getTotalSalary();
-            // Observer pattern is used here to push the event information to the subscribers.
-            fncdAdmin.pushEventInfoToSubscribers(driverPersonSalary,0.0d, null, publisherList);
         }
     }
 
@@ -82,7 +64,7 @@ public class EndOfDay extends FNCD{
             // Add the quitting staff to the departed staff list.
             System.out.println(staff.staffType + " " + staff.name + " has quit the FNCD");
             fncdAdmin.departedStaff.add(staff);
-
+    
             if(staff.staffType == "Intern"){
                 staffAdmin.internTeam.remove(staff);
             }

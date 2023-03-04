@@ -3,13 +3,11 @@ class Pickup extends VehicleInventory{
  
  String PickupID;
 
- public Pickup(String ID, ManageStaff staffAdmin)
+ public Pickup(String ID)
  {
-   super("pickup", ID, staffAdmin);
+   super("pickup", ID);
    assignCarCost("pickup");
    recaliberateCarCost();
    assignCarBonus();
-   raceswon = false;
  }
-
 }

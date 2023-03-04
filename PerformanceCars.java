@@ -3,14 +3,12 @@ class PerformanceCars extends VehicleInventory {
 
  String PerformanceCarsID;
 
- public PerformanceCars(String ID, ManageStaff staffAdmin)
+ public PerformanceCars(String ID)
  {
   // Call the constructor of the VehicleInventory class.
-   super("performancecar", ID, staffAdmin);
+   super("performancecar", ID);
    assignCarCost("performancecar");
    recaliberateCarCost();
    assignCarBonus();
-   raceswon = false;
  }
-
 }
