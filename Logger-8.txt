@@ -1,0 +1,21 @@
+
+****FNCD Day: 8****
+
+Opening... (current budddget $495836.8320000001)
+Hired Inten John5579
+Purchased Used, dirty MonsterTruck for 35433.0 cost
+Washing with Detailed
+Washing...
+Intern John1882 washed vehicle dirty pickup PU4577527 and made it clean (earned $0.0 bonus)
+Intern John1882 washed vehicle dirty Electric TSLA9183552 and made it sparkling (earned $12.880000000000003 bonus)
+Repairing...
+Mechanic Jack7229 repaired vehicle Used Electric TSLA9831815 and made it Used (earned $0.0 bonus)
+Mechanic Jack7229 repaired vehicle Used performancecar PE1168357 and made it LikeNew (earned $3360.15 bonus)
+Selling...
+SalesPerson Michael1853 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $70866.0 (earned $3543.3 bonus)
+SalesPerson Michael2273 sold sparkling Used car CA1428951 to Buyer for $54516.8 (earned $2725.84 bonus)
+Salespeople Michael1853 has quit the FNCD
+Intern John5579 has been hired to replace Salespeople Michael1853
+Tracker : Day8
+Total money earned by all Staff : $75050.33
+Total money earned by the FNCD : $143807.96000000002

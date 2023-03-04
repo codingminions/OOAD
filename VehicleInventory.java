@@ -1,15 +1,17 @@
-
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Random;
 import java.util.ArrayList;
 
 // VehicleInventory class that contains all the vehicles and their attributes.  
-public class VehicleInventory
+public class VehicleInventory implements AddOnInterface
 {
     public String ID;
     protected ArrayList<VehicleInventory> PerformanceCars = new ArrayList<>();
     protected ArrayList<VehicleInventory> Cars = new ArrayList<>();
     protected ArrayList<VehicleInventory> Pickup = new ArrayList<>();
+    protected ArrayList<VehicleInventory> ElectricCars = new ArrayList<>();
+    protected ArrayList<VehicleInventory> MotorCycles = new ArrayList<>();
+    protected ArrayList<VehicleInventory> MonsterTrucks = new ArrayList<>();
     protected String condition;
     public String modelType; 
     protected String cleanliness; 
@@ -18,62 +20,104 @@ public class VehicleInventory
     protected double saleBonus; 
     protected double repairBonus; 
     protected double washBonus;
+    protected double winningBonus;
     protected boolean soldStatus;
+    public boolean raceswon;
+    long raceswonCount = 0;
+    ManageStaff driver = null;
+
 
     // Assign the vehicle condition randomly.
-    public VehicleInventory(){
+    public VehicleInventory(ManageStaff staffAdmin){
         this.modelType = "performancecar";
         this.soldStatus = false;
         assignCarCondition();
-        assignCarCleanliness();        
+        assignCarCleanliness();  
+        this.raceswon = false;
     }
 
     // Assign the vehicle condition randomly.
-    public VehicleInventory(String modelType, String ID)
+    public VehicleInventory(String modelType, String ID, ManageStaff staffAdmin)
     {   
         this.ID = ID;
         this.modelType = modelType;
         this.soldStatus = false;
         assignCarCondition();
         assignCarCleanliness();
+        this.raceswon = false;
+    }
+
+    // Set the race status to true and increment the race count for the winning vehicle.
+    public void setRacesWon()
+    {
+        this.raceswon = true;
+        this.raceswonCount++;
     }
 
     // Add the cars to the respective list based on the model type.
-    protected void addCars(String modelType, VehicleInventory car, VehicleInventory pickupcar, VehicleInventory performanceCar)
+    protected void addCars(String modelType, VehicleInventory vehicle)
     {
         if(modelType == "car")
         {
-            this.Cars.add(car);
+            this.Cars.add(vehicle);
             this.modelType = "car";
         }
-        if(modelType == "pickup")
+        else if(modelType == "pickup")
         {
-            this.Pickup.add(pickupcar);
+            this.Pickup.add(vehicle);
             this.modelType = "pickup";
         }
-        if(modelType == "performancecar")
+        else if(modelType == "performancecar")
         {
-            this.PerformanceCars.add(performanceCar);
+            this.PerformanceCars.add(vehicle);
             this.modelType = "performancecar";
+        }
+        else if(modelType == "Electric")
+        {
+            this.ElectricCars.add(vehicle);
+            this.modelType = "Electric";    
+        }
+        else if(modelType == "MotorCycle")
+        {
+            this.MotorCycles.add(vehicle);
+            this.modelType = "MotorCycle";
+        }
+        else if(modelType == "MonsterTruck")
+        {
+            this.MonsterTrucks.add(vehicle);
+            this.modelType = "MonsterTruck";
         }
     }
 
     // Remove the cars from the respective list based on the model type.
-    protected void removeCars(String modelType, VehicleInventory car, VehicleInventory pickupcar, VehicleInventory performanceCar)
+    protected void removeCars(String modelType, VehicleInventory vehicle)
     {
         if(modelType == "car")
         {
-            Cars.remove(car);
+            Cars.remove(vehicle);
         }
         if(modelType == "pickup")
         {
-            Pickup.remove(pickupcar);
+            Pickup.remove(vehicle);
         }
         if(modelType == "performancecar")
         {
-            PerformanceCars.remove(performanceCar);
+            PerformanceCars.remove(vehicle);
+        }
+        if(modelType == "Electric")
+        {
+            ElectricCars.remove(vehicle);
+        }
+        if(modelType == "MotorCycle")
+        {
+            MotorCycles.remove(vehicle);
+        }
+        if(modelType == "MonsterTruck")
+        {
+            MonsterTrucks.remove(vehicle);
         }
     }
+
 
     public String getID(){
         return this.ID;
@@ -94,6 +138,21 @@ public class VehicleInventory
         return this.PerformanceCars.size();
     }
 
+    protected int getElectricCarsCount()
+    {
+        return this.ElectricCars.size();
+    }
+
+    protected int getMotorCyclesCount()
+    {
+        return this.MotorCycles.size();
+    }
+
+    protected int getMonsterTrucksCount()
+    {
+        return this.MonsterTrucks.size();
+    }
+
     // Assign the car cost randomly based on the model type.
     protected void assignCarCost(String modelType)
     {
@@ -109,6 +168,19 @@ public class VehicleInventory
         {
             this.costPrice = ThreadLocalRandom.current().nextInt(20000,40000);
         }
+        else if(modelType == "Electric")
+        {
+            this.costPrice = ThreadLocalRandom.current().nextInt(10000,50000);
+        }
+        else if(modelType == "MotorCycle")
+        {
+            this.costPrice = ThreadLocalRandom.current().nextInt(10000,30000);
+        }
+        else if(modelType == "MonsterTruck")
+        {
+            this.costPrice = ThreadLocalRandom.current().nextInt(30000,50000);
+        }
+        
     }
 
     protected void assignCarBonus ()
@@ -116,6 +188,7 @@ public class VehicleInventory
         this.saleBonus = (0.1)*this.sellingPrice;
         this.washBonus = (0.05)*this.sellingPrice;
         this.repairBonus = (0.15)*this.sellingPrice;
+        this.winningBonus = (0.02)*this.sellingPrice;
     }
 
     // Assign the car condition randomly.
@@ -192,7 +265,7 @@ public class VehicleInventory
         this.sellingPrice = sp;
     }
 
-    protected double getSellingPrice()
+    public double getSellingPrice()
     {
         return this.sellingPrice;
     }
@@ -223,6 +296,26 @@ public class VehicleInventory
                 cleanCars.add(car);
             }
         }
+
+        for(VehicleInventory electric: ElectricCars){
+            if(electric.cleanliness == "clean"){
+                cleanCars.add(electric);
+            }
+        }
+
+        for(VehicleInventory truck: MonsterTrucks){
+            if(truck.cleanliness == "clean"){
+                cleanCars.add(truck);
+            }
+        }
+
+        for(VehicleInventory cycle: MotorCycles){
+            if(cycle.cleanliness == "clean"){
+                cleanCars.add(cycle);
+            }
+        }
+        
+
         return cleanCars;
     }
 
@@ -247,6 +340,25 @@ public class VehicleInventory
                 dirtyCars.add(car);
             }
         }
+
+        for(VehicleInventory electric: ElectricCars){
+            if(electric.cleanliness == "dirty"){
+                dirtyCars.add(electric);
+            }
+        }
+
+        for(VehicleInventory truck: MonsterTrucks){
+            if(truck.cleanliness == "dirty"){
+                dirtyCars.add(truck);
+            }
+        }
+
+        for(VehicleInventory cycle: MotorCycles){
+            if(cycle.cleanliness == "dirty"){
+                dirtyCars.add(cycle);
+            }
+        }
+        
         return dirtyCars;
     }
 
@@ -271,6 +383,25 @@ public class VehicleInventory
                 Brokencars.add(car);
             }
         }
+
+        for(VehicleInventory electric: ElectricCars){
+            if(electric.condition == "Broken"){
+                Brokencars.add(electric);
+            }
+        }
+
+        for(VehicleInventory truck: MonsterTrucks){
+            if(truck.condition == "Broken"){
+                Brokencars.add(truck);
+            }
+        }
+
+        for(VehicleInventory cycle: MotorCycles){
+            if(cycle.condition == "Broken"){
+                Brokencars.add(cycle);
+            }
+        }
+
         return Brokencars;
     }
     // Get the list of used cars.
@@ -294,6 +425,25 @@ public class VehicleInventory
                 Usedvehicles.add(car);
             }
         }
+
+        for(VehicleInventory electric: ElectricCars){
+            if(electric.condition == "Used"){
+                Usedvehicles.add(electric);
+            } 
+        }
+
+        for(VehicleInventory truck: MonsterTrucks){
+            if(truck.condition == "Used"){
+                Usedvehicles.add(truck);
+            } 
+        }
+
+        for(VehicleInventory cycle: MotorCycles){
+            if(cycle.condition == "Used"){
+                Usedvehicles.add(cycle);
+            } 
+        }
+        
         return Usedvehicles;
     }
 
@@ -304,6 +454,9 @@ public class VehicleInventory
         allVehicles.addAll(PerformanceCars);
         allVehicles.addAll(Cars);
         allVehicles.addAll(Pickup);
+        allVehicles.addAll(ElectricCars);
+        allVehicles.addAll(MonsterTrucks);
+        allVehicles.addAll(MotorCycles);
         return allVehicles;
     }
 }

@@ -1,0 +1,54 @@
+
+****FNCD Day: 1****
+
+Opening... (current budddget $500000.0)
+Hired Inten John5436
+Hired Inten John1882
+Hired Inten John6107
+Hired Mechanic Jack3621
+Hired Mechanic Jack7229
+Hired Mechanic Jack3769
+Hired SalesPerson Michael2273
+Hired SalesPerson Michael1853
+Hired SalesPerson Michael2420
+Hired Driver Max3651
+Hired Driver Max7779
+Hired Driver Max7830
+Purchased Used, dirty performancecar for 20201.0 cost
+Purchased Used, clean performancecar for 25473.600000000002 cost
+Purchased Used, dirty performancecar for 11200.5 cost
+Purchased Used, dirty performancecar for 19841.600000000002 cost
+Purchased Used, dirty pickup for 26981.0 cost
+Purchased Used, dirty pickup for 28212.0 cost
+Purchased Used, clean pickup for 37658.0 cost
+Purchased Used, clean pickup for 26763.2 cost
+Purchased Used, dirty car for 23794.4 cost
+Purchased Used, dirty car for 34831.0 cost
+Purchased Used, dirty car for 36315.0 cost
+Purchased Used, dirty car for 35196.0 cost
+Purchased Used, dirty Electric for 128.8 cost
+Purchased Used, sparkling Electric for 345.0 cost
+Purchased Used, sparkling Electric for 199.0 cost
+Purchased Used, sparkling Electric for 141.0 cost
+Purchased Used, dirty MotorCycle for 16274.400000000001 cost
+Purchased Used, dirty MotorCycle for 11131.2 cost
+Purchased Used, dirty MotorCycle for 17730.0 cost
+Purchased Used, dirty MotorCycle for 24482.0 cost
+Purchased Used, dirty MonsterTruck for 15074.5 cost
+Purchased Used, clean MonsterTruck for 20728.0 cost
+Purchased Used, dirty MonsterTruck for 30539.2 cost
+Purchased Used, clean MonsterTruck for 34272.0 cost
+Washing with Detailed
+Washing...
+Intern John1882 washed vehicle dirty MonsterTruck BigFoot 3 and made it sparkling (earned $3053.92 bonus)
+Intern John5436 washed vehicle clean MonsterTruck BigFoot 4 and made it sparkling (earned $3427.2000000000003 bonus)
+Intern John1882 washed vehicle dirty car CA8884047 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack7229 repaired vehicle Broken performancecar PE1168357 and made it Used (earned $3360.15 bonus)
+Mechanic Jack7229 repaired vehicle Used MotorCycle MC7020402 and made it Used (earned $0.0 bonus)
+Selling...
+SalesPerson Michael1853 sold clean LikeNew pickup PU1474606 to Buyer for $75316.0 (earned $3765.8 bonus)
+SalesPerson Michael2273 sold dirty LikeNew car CA5755926 to Buyer for $72630.0 (earned $3631.5 bonus)
+Tracker : Day1
+Total money earned by all Staff : $47067.62000000001
+Total money earned by the FNCD : $166829.8
