@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Repair extends FNCD {
     // Constructor for the Repair class that calls the constructor of the FNCD class and calls the ops method.
-    public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin){
+    public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin, ArrayList<Subscriber> publisherList){
         ArrayList<VehicleInventory> brokenVehicles = vehicleAdmin.getBrokenVehicles();
         ArrayList<VehicleInventory> usedVehicles = vehicleAdmin.getUsedVehicles();
 
@@ -14,11 +14,11 @@ public class Repair extends FNCD {
 
         Collections.shuffle(tobeRepairedVehicleInventory);
 
-        Integer numMech = 0;
         Double wBonus = 0.0;
         String oldCondition = " ";
         String newCondition = " ";
 
+        System.out.println("Repairing..."); 
         // Repair broken vehicles and used vehicles with a probability of 0.20 and 0.80 respectively.
         for(int i=0;i<tobeRepairedVehicleInventory.size(); i++){
                 Random randMech = new Random();
@@ -88,6 +88,7 @@ public class Repair extends FNCD {
                     }
                     else {
                         wBonus = tobeRepairedVehicleInventory.get(i).repairBonus;
+                        fncdAdmin.pushEventInfoToSubscribers(wBonus,0.0d, null, publisherList);
                         tobeRepairedVehicleInventory.get(i).sellingPrice = 1.25 * tobeRepairedVehicleInventory.get(i).sellingPrice;
                         // Decrease the operating budget by the repair bonus.
                         fncdAdmin.operatingBudget -= wBonus;
@@ -103,18 +104,19 @@ public class Repair extends FNCD {
                     }
 
                 }               
-            numMech++;
-            System.out.println("Mechanic " + mech.getName() + " repaired vehicle " +
+            mech.numVehicleServiced++;
+            String repairOutcome = ("Mechanic " + mech.getName() + " repaired vehicle " +
                                 oldCondition + " "+ 
                                 tobeRepairedVehicleInventory.get(i).modelType + " " + 
                                 tobeRepairedVehicleInventory.get(i).getID() + " and made it "+ newCondition +
                                 " (earned $" + wBonus + " bonus)");
-            
+            fncdAdmin.pushEventInfoToSubscribers(0.0d,0.0d, repairOutcome, publisherList);
             wBonus = 0.0;
             oldCondition = " ";
             newCondition = " ";
             // If two vehicles have been repaired by each mechanic, break the loop.
-            if(numMech == 2){
+            if(mech.numVehicleServiced == 2){
+                mech.numVehicleServiced = 0;
                 break;
             }
         }

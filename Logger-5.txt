@@ -1,0 +1,26 @@
+
+****FNCD Day: 5****
+
+Opening... (current budddget $278571.40200000006)
+Hired Inten John1451
+Purchased Used, dirty car for 30381.600000000002 cost
+Purchased Used, clean car for 27258.4 cost
+Washing with Detailed
+Washing...
+Intern John1882 washed vehicle dirty MotorCycle MC5939507 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack7229 repaired vehicle Used car CA8296986 and made it LikeNew (earned $7138.320000000001 bonus)
+Mechanic Jack7229 repaired vehicle Used performancecar PE3130742 and made it LikeNew (earned $7642.08 bonus)
+Selling...
+SalesPerson Michael2273 sold dirty Used car CA6315911 to Buyer for $60763.200000000004 (earned $3038.1600000000003 bonus)
+SalesPerson Michael2420 sold dirty LikeNew car CA8296986 to Buyer for $59486.0 (earned $2379.44 bonus)
+Racing...
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max3651
+FNCD Vehicle BigFoot 1 came in 14 place
+FNCD Vehicle BigFoot 2 is participating in the race with driver Max7779
+FNCD Vehicle BigFoot 2 came in 13 place
+FNCD Vehicle BigFoot 3 is participating in the race with driver Max7830
+FNCD Vehicle BigFoot 3 came in 6 place
+Tracker : Day5
+Total money earned by all Staff : $73946.79999999999
+Total money earned by the FNCD : $135184.56

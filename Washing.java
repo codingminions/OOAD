@@ -4,10 +4,22 @@ import java.util.Random;
 
 
 public class Washing extends FNCD{
-    public void ops(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin){
+
+    public WashInterface washmethod;
+
+    public Washing(WashInterface washmethod)
+    {
+        this.washmethod = washmethod;
+    }
+
+    public String wash(String oldcondition)
+    {
+        return this.washmethod.ops(oldcondition);
+    }
+
+    public void operation(ManageStaff staffAdmin, VehicleInventory vehicleAdmin, FNCD fncdAdmin, ArrayList<Subscriber> publisherList){
         System.out.println("Washing..."); 
 
-        Integer numIntern = 0;
         Double wBonus = 0.0;
         String newCondition = "";
         String oldCondition= "";
@@ -29,48 +41,16 @@ public class Washing extends FNCD{
             // If the vehicle is dirty, wash it.
             if(tobeCleanedVehicleInventory.get(i).cleanliness == "dirty"){
                 oldCondition = tobeCleanedVehicleInventory.get(i).cleanliness;
-                String[] CleanlinessArray = {"sparkling","clean"};
-                double[] Probabilities = {0.10, 0.80};
-
-                Random rand = new Random();
-
-                double randNum = rand.nextDouble();
-                double Probsum = 0.0;
-                int selectedIndex = 0;
-
-                for (int j = 0; j < Probabilities.length; j++) {
-                    Probsum += Probabilities[j];
-                    if (randNum <= Probsum) {
-                        selectedIndex = j;
-                        break;
-                    }
-                }
-
-                newCondition = CleanlinessArray[selectedIndex];
-                tobeCleanedVehicleInventory.get(i).cleanliness = CleanlinessArray[selectedIndex];
+                
+                newCondition = this.wash("dirty");
+                tobeCleanedVehicleInventory.get(i).cleanliness = newCondition;
             }
             // If the vehicle is clean, wash it.
             else if(tobeCleanedVehicleInventory.get(i).cleanliness == "clean"){
                 oldCondition = tobeCleanedVehicleInventory.get(i).cleanliness;
-                String[] CleanlinessArray = {"sparkling","dirty"};
-                double[] Probabilities = {0.30, 0.05};
 
-                Random rand = new Random();
-
-                double randNum = rand.nextDouble();
-                double Probsum = 0.0;
-                int selectedIndex = 0;
-
-                for (int j = 0; j < Probabilities.length; j++) {
-                    Probsum += Probabilities[j];
-                    if (randNum <= Probsum) {
-                        selectedIndex = j;
-                        break;
-                    }
-                }
-
-                newCondition = CleanlinessArray[selectedIndex];
-                tobeCleanedVehicleInventory.get(i).cleanliness = CleanlinessArray[selectedIndex];
+                newCondition = this.wash("clean");
+                tobeCleanedVehicleInventory.get(i).cleanliness = newCondition;
             }
             else{
                 oldCondition = tobeCleanedVehicleInventory.get(i).cleanliness;
@@ -79,28 +59,34 @@ public class Washing extends FNCD{
             }
             
             // If the vehicle is sparkling, assign wash Bonus to it.
-            if(newCondition == "sparkling"){
+            if(newCondition == "sparkling" && oldCondition!= "sparkling"){
                 wBonus = tobeCleanedVehicleInventory.get(i).washBonus;
                 intern.setBonus(wBonus);
                 fncdAdmin.operatingBudget -= wBonus;
+                fncdAdmin.pushEventInfoToSubscribers(wBonus,0.0d, null, publisherList);
             }
 
-            numIntern ++;
+            // Increment the number of vehicles washed by the intern.
+            intern.numVehicleWashed++;
 
-            System.out.println("Intern " + intern.getName() + " washed vehicle " + 
+            String washingOutcome = ("Intern " + intern.getName() + " washed vehicle " + 
                                 oldCondition + " " +
                                 tobeCleanedVehicleInventory.get(i).modelType + " " + 
                                 tobeCleanedVehicleInventory.get(i).getID() + " and made it "+ newCondition +
                                 " (earned $" + wBonus + " bonus)");
-
+            // Push the washing outcome to the subscribers.
+            fncdAdmin.pushEventInfoToSubscribers(0.0d,0.0d, washingOutcome, publisherList);
+            
             wBonus = 0.0;
             oldCondition = "";
             newCondition = "";
             
             // If two interns have washed a vehicle, break the loop.
-            if(numIntern == 2){
+            if(intern.numVehicleWashed == 2){
+                intern.numVehicleWashed = 0;
                 break;
             }
         }
     }
 }
+

@@ -2,7 +2,6 @@
 import java.util.ArrayList;
 
 // ManageStaff class is used to manage staff details such as name, salary, bonus, etc.
-// ManageStaff Class.
 public class ManageStaff{
     String name;
     Integer TotalDaysWorked =0;
@@ -13,12 +12,15 @@ public class ManageStaff{
     Double bonus=0.0;
     String staffType;
     Integer numVehicleSold = 0;
+    Integer numVehicleWashed = 0;
+    Integer numVehicleServiced = 0;
+    Integer numRacesWon = 0;
+    boolean isInjured = false;
 
-    // We use PolyMorphism to create multiple arraylist of type ManageStaff for each staff type
-    // executing ManageStaff in multiple ways.
     public ArrayList<ManageStaff> internTeam = new ArrayList<>();
     public ArrayList<ManageStaff> mechTeam = new ArrayList<>();
     public ArrayList<ManageStaff> salesTeam = new ArrayList<>();
+    public ArrayList<ManageStaff> driverTeam = new ArrayList<>();
 
     // Constructor for the ManageStaff class that sets the name, daily salary rate, bonus rate, and staff type.
     public ManageStaff(){
@@ -37,7 +39,7 @@ public class ManageStaff{
     }
 
     // Add staff to the staff list based on the staff type.
-    public void addStaff(String staffType, ManageStaff intern, ManageStaff mech, ManageStaff saleperson){
+    public void addStaff(String staffType, ManageStaff staff){
         if (staffType == "") {
             System.out.println("Please enter a staff type");
             System.exit(0);
@@ -45,15 +47,19 @@ public class ManageStaff{
 
         if (staffType == "Intern"){
             this.staffType = "Intern";
-            internTeam.add(intern);
+            internTeam.add(staff);
         }
         else if (staffType == "Mechanics"){
             this.staffType = "Mechanics";
-            mechTeam.add(mech);
+            mechTeam.add(staff);
         }
         else if (staffType == "SalesPeople"){
             this.staffType = "SalesPeople";
-            salesTeam.add(saleperson);
+            salesTeam.add(staff);
+        }
+        else if (staffType == "Driver") {
+            this.staffType = "Driver";
+            driverTeam.add(staff);
         }
     }
 
@@ -80,8 +86,25 @@ public class ManageStaff{
                 }
             }
         }
+        else if (staffType == "Driver"){
+            for (ManageStaff driver : driverTeam){
+                if (driver.name == id){
+                    driverTeam.remove(driver);
+                }
+            }
+        }
     }
 
+    // get the list of all drivers from the driverTeam list against the given name.
+    public ManageStaff getDriver(String name){
+        for (ManageStaff driver : driverTeam){
+            if (driver.name == name){
+                return driver;
+            }
+        }
+        return null;
+    }
+    
     // Set the total days worked for the staff.
     public String getName(){
         return this.name;
@@ -89,7 +112,7 @@ public class ManageStaff{
 
     // Set the Total bonus earned by the staff.
     public void setBonus(Double bonus){
-        this.bonus = bonus;
+        this.bonus += bonus;
     }
 
     // Set the Total Salary earned by the staff.
@@ -98,10 +121,15 @@ public class ManageStaff{
         this.TotalSalary = this.TotalDaysWorked * this.dailySalaryRate + bonus;
     }
 
+    // Get the Total Salary earned by the staff.
+    public Double getTotalSalary(){
+        return this.TotalSalary;
+    }
     public void printStaff(){
         System.out.println("Interns: " + internTeam.toString());
         System.out.println("Mechanics: " + mechTeam.toString());
         System.out.println("SalesPeople: " + salesTeam.toString());
+        System.out.println("Drivers: " + driverTeam.toString());
     }
 
     // Print the staff list based on the staff type.
@@ -114,6 +142,9 @@ public class ManageStaff{
         }
         else if (staffType == "SalesPeople"){
             System.out.println("SalesPeople: " + salesTeam.toString());
+        }
+        else if (staffType == "Driver"){
+            System.out.println("Drivers: " + driverTeam.toString());
         }
     }
 
@@ -128,6 +159,9 @@ public class ManageStaff{
         }
         for (ManageStaff saleperson : salesTeam){
             totalSalaryBudget += saleperson.TotalSalary;
+        }
+        for (ManageStaff driver : driverTeam){
+            totalSalaryBudget += driver.TotalSalary;
         }
         return totalSalaryBudget;
     }
