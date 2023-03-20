@@ -1,0 +1,298 @@
+
+Select FNCD Location:
+1.EastCoast 2.WestCoast
+1
+Select FNCD Location
+Opening... (current budddget $1871049.0115)
+Purchased Used, clean performancecar for 38127.0 cost
+Purchased Used, clean MonsterTruck for 28922.4 cost
+Washing with Chemical
+Intern John7156 washed vehicle dirty car CA7526107 and made it clean (earned $0.0 bonus)
+Intern John7156 washed vehicle clean pickup PU7114791 and made it sparkling (earned $1779.15 bonus)
+Repairing...
+Mechanic John7843 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6012.75 bonus)
+
+
+Welcome to FNCD! Please check the below options
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+1
+Michael2664
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+2
+The time is 04:39
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+3
+New Sales Person is Michael1854
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+4
+| Sl.No      | Vehicle Type | Vehicle ID | Condition  | Cleanliness | Selling Price |
+| 0          | performancecar | PE1913282  | Broken     | sparkling  | 30526.0    |
+| 1          | performancecar | PE482013   | Broken     | clean      | 20736.0    |
+| 2          | performancecar | PE2528437  | Used       | sparkling  | 39948.0    |
+| 3          | performancecar | PE6983121  | Broken     | dirty      | 22931.0    |
+| 4          | performancecar | PE1880878  | Used       | clean      | 39220.8    |
+| 5          | performancecar | PE4418543  | LikeNew    | clean      | 76254.0    |
+| 6          | car        | CA5983974  | LikeNew    | dirty      | 29415.0    |
+| 7          | car        | CA6122406  | LikeNew    | clean      | 37266.0    |
+| 8          | car        | CA5713280  | LikeNew    | clean      | 21040.0    |
+| 9          | car        | CA4219281  | LikeNew    | sparkling  | 27186.0    |
+| 10         | car        | CA7526107  | LikeNew    | clean      | 31884.375  |
+| 11         | car        | CA6628421  | LikeNew    | dirty      | 35388.0    |
+| 12         | pickup     | PU8106919  | Broken     | sparkling  | 52880.0    |
+| 13         | pickup     | PU9185287  | LikeNew    | sparkling  | 55834.0    |
+| 14         | pickup     | PU7114791  | Used       | sparkling  | 53374.5    |
+| 15         | pickup     | PU1728592  | LikeNew    | sparkling  | 43218.0    |
+| 16         | pickup     | PU9270213  | LikeNew    | dirty      | 40005.0    |
+| 17         | pickup     | PU8728280  | Used       | dirty      | 52572.0    |
+| 18         | Electric   | TSLA4587230 | LikeNew    | sparkling  | 662.0      |
+| 19         | Electric   | TSLA9544762 | Broken     | dirty      | 85.0       |
+| 20         | Electric   | TSLA4953377 | LikeNew    | dirty      | 701.25     |
+| 21         | Electric   | TSLA9725935 | Used       | dirty      | 351.0      |
+| 22         | Electric   | TSLA3469938 | LikeNew    | clean      | 462.0      |
+| 23         | Electric   | TSLA9037913 | LikeNew    | sparkling  | 276.0      |
+| 24         | MonsterTruck | BigFoot 2  | Broken     | clean      | 31387.0    |
+| 25         | MonsterTruck | BigFoot 4  | Broken     | clean      | 39491.0    |
+| 26         | MonsterTruck | BigFoot 5  | Used       | dirty      | 55849.5    |
+| 27         | MonsterTruck | BigFoot 1  | Used       | dirty      | 53950.5    |
+| 28         | MonsterTruck | BigFoot 1  | Used       | dirty      | 60127.5    |
+| 29         | MonsterTruck | BigFoot 1  | Used       | clean      | 57844.8    |
+| 30         | MotorCycle | MC6581387  | LikeNew    | clean      | 52482.00000000001 |
+| 31         | MotorCycle | MC4039956  | LikeNew    | sparkling  | 56706.0    |
+| 32         | MotorCycle | MC575026   | LikeNew    | dirty      | 47244.0    |
+| 33         | MotorCycle | MC2525292  | LikeNew    | sparkling  | 37378.0    |
+| 34         | MotorCycle | MC6161997  | Broken     | sparkling  | 16663.0    |
+| 35         | MotorCycle | MC3647400  | LikeNew    | dirty      | 33484.0    |
+| 36         | SkateBoard | SK 19      | LikeNew    | dirty      | 40966.875  |
+| 37         | SkateBoard | SK 20      | LikeNew    | sparkling  | 47538.0    |
+| 38         | SkateBoard | SK 21      | LikeNew    | clean      | 21078.0    |
+| 39         | SkateBoard | SK 22      | LikeNew    | sparkling  | 44190.0    |
+| 40         | SkateBoard | SK 23      | Used       | dirty      | 21865.600000000002 |
+| 41         | SkateBoard | SK 24      | LikeNew    | sparkling  | 39434.0    |
+| 42         | Ambulance  | AMBL7      | Broken     | dirty      | 22259.0    |
+| 43         | Ambulance  | AMBL8      | LikeNew    | sparkling  | 32762.000000000004 |
+| 44         | Ambulance  | AMBL9      | LikeNew    | sparkling  | 44884.0    |
+| 45         | Ambulance  | AMBL10     | LikeNew    | clean      | 39956.0    |
+| 46         | Ambulance  | AMBL11     | LikeNew    | sparkling  | 37252.0    |
+| 47         | Ambulance  | AMBL12     | LikeNew    | clean      | 26664.0    |
+| 48         | Bus        | BS 13      | LikeNew    | clean      | 54360.0    |
+| 49         | Bus        | BS 14      | LikeNew    | clean      | 21072.000000000004 |
+| 50         | Bus        | BS 15      | LikeNew    | dirty      | 51392.0    |
+| 51         | Bus        | BS 16      | LikeNew    | sparkling  | 55300.0    |
+| 52         | Bus        | BS 17      | LikeNew    | clean      | 41024.0    |
+| 53         | Bus        | BS 18      | LikeNew    | clean      | 59018.0    |
+Choose the desired vehicle from the above inventory
+41
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+5
+| Vehicle Type | Vehicle ID | Condition  | Cleanliness | Selling Price |
+| SkateBoard | SK 24      | LikeNew    | sparkling  | 39434.0    |
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+6
+Select the necessary Addons for the vehicles by giving 1 for yes and 0 for no
+Please choose if you want Extended Warranty
+0
+Please choose if you want Undercoating
+0
+Please choose if you want Road Rescue coverage
+1
+Please choose if you want Satellite Radio
+1
+SalesPerson Michael1854 sold sparkling LikeNew SkateBoard SK 24 to Buyer for $49686.84 (earned $1971.7 bonus)
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+0
+Select one of the Menu options below:
+1. Enquire about the Sales Person's name.
+2. Ask Sales Person the time.
+3. Get a new Sales Person assigned.
+4. Get the current available inventory.
+5. Get details of the desired vehicle.
+6. Buy the desired vehicle.
+7. End interaction.
+0. Main Menu.
+7
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Salespeople     | Michael1854     | 26              | 10005.8         | 1971.7          |
+| Salespeople     | Michael698      | 26              | 9519.36         | 1719.3600000000004 |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Mechanics       | John7843        | 15              | 3000.0          | 0.0             |
+| Mechanics       | Jack6494        | 26              | 5200.0          | 0.0             |
+| Mechanics       | John3237        | 8               | 1600.0          | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Intern          | John7156        | 14              | 7613.380000000001 | 7992.530000000001 |
+| Intern          | John5424        | 15              | 9680.400000000001 | 8180.400000000001 |
+| Intern          | John9348        | 1               | 100.0           | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Driver          | Max1309         | 0               | 0.0             | 0.0             |
+| Driver          | Max3703         | 0               | 0.0             | 0.0             |
+| Driver          | Max5555         | 0               | 0.0             | 0.0             |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| car             | CA5983974       | 7844.0          | 29415.0         | LikeNew         | dirty           | Stock Available |
+| car             | CA6122406       | 18633.0         | 37266.0         | LikeNew         | clean           | Stock Available |
+| car             | CA5713280       | 10520.0         | 21040.0         | LikeNew         | clean           | Stock Available |
+| car             | CA4219281       | 13593.0         | 27186.0         | LikeNew         | sparkling       | Stock Available |
+| car             | CA7526107       | 8502.5          | 31884.375       | LikeNew         | clean           | Stock Available |
+| car             | CA6628421       | 14155.2         | 35388.0         | LikeNew         | dirty           | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| performancecar  | PE1913282       | 15263.0         | 30526.0         | Broken          | sparkling       | Stock Available |
+| performancecar  | PE482013        | 10368.0         | 20736.0         | Broken          | clean           | Stock Available |
+| performancecar  | PE2528437       | 13316.0         | 39948.0         | Used            | sparkling       | Stock Available |
+| performancecar  | PE6983121       | 11465.5         | 22931.0         | Broken          | dirty           | Stock Available |
+| performancecar  | PE1880878       | 19610.4         | 39220.8         | Used            | clean           | Stock Available |
+| performancecar  | PE4418543       | 38127.0         | 76254.0         | LikeNew         | clean           | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| pickup          | PU8106919       | 21152.0         | 52880.0         | Broken          | sparkling       | Stock Available |
+| pickup          | PU9185287       | 27917.0         | 55834.0         | LikeNew         | sparkling       | Stock Available |
+| pickup          | PU7114791       | 17791.5         | 53374.5         | Used            | sparkling       | Stock Available |
+| pickup          | PU1728592       | 17287.2         | 43218.0         | LikeNew         | sparkling       | Stock Available |
+| pickup          | PU9270213       | 10668.0         | 40005.0         | LikeNew         | dirty           | Stock Available |
+| pickup          | PU8728280       | 17524.0         | 52572.0         | Used            | dirty           | Stock Available |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           | Status          |
+
+| Mechanics       | Jack6255        | 3               | 600.0           | 0.0             | Working Status: Quit |
+| Intern          | John3692        | 10              | 3448.4900000000002 | 2448.4900000000002 | Working Status: Quit |
+| Salespeople     | Michael1854     | 26              | 10005.8         | 1971.7          | Working Status: Quit |
+| Mechanics       | John6086        | 8               | 1600.0          | 0.0             | Working Status: Quit |
+| Mechanics       | Jack5655        | 12              | 2400.0          | 0.0             | Working Status: Quit |
+| Mechanics       | John3635        | 6               | 1200.0          | 0.0             | Working Status: Quit |
+| Salespeople     | Michael698      | 26              | 9519.36         | 1719.3600000000004 | Working Status: Quit |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| MonsterTruck    | BigFoot 6       | 35955.200000000004 | 71910.40000000001 | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 3       | 23854.5         | 71563.5         | Used            | dirty           | Sold            |
+| car             | CA5285718       | 35144.0         | 70288.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE9227891       | 33877.0         | 67754.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE2558421       | 31684.800000000003 | 63369.600000000006 | Used            | dirty           | Sold            |
+| car             | CA9890761       | 32346.0         | 64692.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE1319955       | 30774.0         | 61548.0         | LikeNew         | sparkling       | Sold            |
+| performancecar  | PE7934892       | 23342.4         | 46684.8         | Used            | dirty           | Sold            |
+| performancecar  | PE2461386       | 22809.0         | 45618.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE1736699       | 20508.800000000003 | 41017.600000000006 | Used            | dirty           | Sold            |
+| performancecar  | PE5184221       | 28452.800000000003 | 56905.600000000006 | Used            | dirty           | Sold            |
+| performancecar  | PE3580557       | 25395.2         | 50790.4         | Used            | dirty           | Sold            |
+| performancecar  | PE4309084       | 18892.5         | 37785.0         | Broken          | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 32248.0         | 64496.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE5671722       | 21466.4         | 42932.8         | Used            | clean           | Sold            |
+| MonsterTruck    | BigFoot 1       | 45053.0         | 90106.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE7428081       | 35944.0         | 71888.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE3781804       | 18132.5         | 36265.0         | Broken          | dirty           | Sold            |
+| performancecar  | PE9098228       | 15627.5         | 31255.0         | Broken          | clean           | Sold            |
+| MonsterTruck    | BigFoot 1       | 31892.0         | 63784.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE6416966       | 29171.0         | 58342.0         | LikeNew         | clean           | Sold            |
+| pickup          | PU2163522       | 31815.2         | 79538.0         | LikeNew         | dirty           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE8347386       | 27429.0         | 54858.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE858150        | 23812.0         | 47624.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE7853728       | 36391.0         | 72782.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE8015738       | 34612.0         | 69224.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE2406182       | 26771.2         | 66928.0         | LikeNew         | clean           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE7945158       | 29215.0         | 58430.0         | LikeNew         | sparkling       | Sold            |
+| performancecar  | PE8818841       | 35308.0         | 70616.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE4649630       | 25601.0         | 51202.0         | LikeNew         | clean           | Sold            |
+| pickup          | PU5264638       | 17823.5         | 66838.125       | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 23710.5         | 71131.5         | Used            | clean           | Sold            |
+| performancecar  | PE8043905       | 30709.0         | 61418.0         | LikeNew         | clean           | Sold            |
+| pickup          | PU1997896       | 31021.600000000002 | 62043.200000000004 | Used            | dirty           | Sold            |
+| performancecar  | PE2930585       | 29515.2         | 59030.4         | Used            | dirty           | Sold            |
+| performancecar  | PE2872411       | 12833.5         | 38500.5         | Used            | dirty           | Sold            |
+| performancecar  | PE9789004       | 12192.5         | 36577.5         | Used            | dirty           | Sold            |
+| performancecar  | PE5240295       | 32601.0         | 65202.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE6885191       | 33634.0         | 67268.0         | LikeNew         | dirty           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE7057856       | 11836.0         | 35508.0         | Used            | dirty           | Sold            |
+| performancecar  | PE5965728       | 17430.4         | 34860.8         | Used            | dirty           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE5280029       | 22058.0         | 44116.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 16519.0         | 61946.25        | LikeNew         | dirty           | Sold            |
+| Bus             | BS 18           | 29509.0         | 59018.0         | LikeNew         | clean           | Sold            |
+| MonsterTruck    | BigFoot 1       | 33615.200000000004 | 67230.40000000001 | Used            | clean           | Sold            |
+| performancecar  | PE7977778       | 17193.600000000002 | 42984.00000000001 | LikeNew         | clean           | Sold            |
+| SkateBoard      | SK 24           | 19717.0         | 49686.84        | LikeNew         | sparkling       | Sold            |
