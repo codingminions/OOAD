@@ -1,0 +1,34 @@
+
+****FNCD Day: 16****
+
+Opening... (current budddget $806225.0950000001)
+Purchased Used, clean performancecar for 24052.0 cost
+Purchased Used, dirty MonsterTruck for 49946.0 cost
+Opening... (current budddget $394133.8866)
+Purchased Used, clean car for 14076.0 cost
+Purchased Used, dirty car for 37305.0 cost
+Washing with Chemical
+Intern John3494 washed vehicle dirty MonsterTruck BigFoot 1 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John8959 washed vehicle clean Bus BS 13 and made it sparkling (earned $1244.3000000000002 bonus)
+Intern John7266 washed vehicle dirty performancecar PE4718180 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Used MotorCycle MC9286246 and made it LikeNew (earned $3843.6 bonus)
+Mechanic Jack2156 repaired vehicle Used pickup PU2111959 and made it LikeNew (earned $4127.849999999999 bonus)
+Mechanic Jack2156 repaired vehicle Broken SkateBoard SK 23 and made it Used (earned $4396.65 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Used Electric TSLA5686965 and made it Used (earned $0.0 bonus)
+Mechanic Jack2098 repaired vehicle Used Ambulance AMBL11 and made it LikeNew (earned $5065.2 bonus)
+Selling...
+SalesPerson Michael9316 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $99892.0 (earned $4994.6 bonus)
+SalesPerson Michael378 sold dirty LikeNew pickup PU343663 to Buyer for $62497.5 (earned $1666.6000000000001 bonus)
+SalesPerson Michael7841 sold clean Used MonsterTruck BigFoot 1 to Buyer for $58332.8 (earned $2916.6400000000003 bonus)
+SalesPerson Michael378 sold clean Used performancecar PE8721254 to Buyer for $48104.0 (earned $2405.2000000000003 bonus)
+Selling...
+SalesPerson Michael6631 sold dirty LikeNew car CA4781857 to Buyer for $74610.0 (earned $3730.5 bonus)
+SalesPerson Michael3680 sold dirty Broken performancecar PE3232969 to Buyer for $46936.0 (earned $2346.8 bonus)
+SalesPerson Michael3680 sold dirty Broken performancecar PE7652004 to Buyer for $44832.0 (earned $2241.6 bonus)
+Intern John2808 has quit the FNCD
+Tracker : Day16
+Total money earned by all Staff : $205395.93000000002
+Total money earned by the FNCD : $487694.27999999997

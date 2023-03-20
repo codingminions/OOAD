@@ -1,0 +1,50 @@
+
+****FNCD Day: 17****
+
+Opening... (current budddget $1024603.8350000003)
+Hired Inten John33
+Purchased Used, clean performancecar for 17567.0 cost
+Purchased Used, sparkling pickup for 28151.0 cost
+Purchased Used, clean MonsterTruck for 43381.0 cost
+Purchased Used, clean MonsterTruck for 45597.0 cost
+Opening... (current budddget $499090.8866)
+Purchased Used, dirty performancecar for 39687.0 cost
+Purchased Used, dirty performancecar for 17670.0 cost
+Purchased Used, dirty car for 20689.600000000002 cost
+Washing with Chemical
+Intern John3494 washed vehicle clean car CA8516533 and made it sparkling (earned $1823.2 bonus)
+Intern John424 washed vehicle clean Electric TSLA6975208 and made it sparkling (earned $31.5 bonus)
+Intern John3494 washed vehicle dirty Electric TSLA6719674 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John7266 washed vehicle dirty performancecar PE3292745 and made it clean (earned $0.0 bonus)
+Intern John7266 washed vehicle dirty pickup PU3180458 and made it sparkling (earned $1986.0 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Used car CA6785373 and made it LikeNew (earned $4247.849999999999 bonus)
+Repairing...
+Mechanic Jack2098 repaired vehicle Used Electric TSLA5686965 and made it LikeNew (earned $31.2 bonus)
+Mechanic Jack2098 repaired vehicle Used MonsterTruck BigFoot 3 and made it LikeNew (earned $8736.96 bonus)
+Selling...
+SalesPerson Michael9316 sold clean LikeNew MonsterTruck BigFoot 2 to Buyer for $91194.0 (earned $4559.7 bonus)
+Selling...
+SalesPerson Michael6631 sold dirty LikeNew performancecar PE4384176 to Buyer for $79374.0 (earned $3968.7000000000003 bonus)
+Racing...
+FNCD Vehicle PU1069434 is participating in the race with driver Max1908
+FNCD Vehicle PU1069434 came in 12 place
+FNCD Vehicle PU2111959 is participating in the race with driver Max9275
+FNCD Vehicle PU2111959 broke down in the race event
+FNCD Vehicle PU962734 is participating in the race with driver Max4098
+Driver Max4098 won their 1 race
+FNCD Vehicle PU962734 won its 1 race.
+Racing...
+FNCD Vehicle BigFoot 3 is participating in the race with driver Max9561
+FNCD Vehicle BigFoot 3 came in 8 place
+FNCD Vehicle BigFoot 6 is participating in the race with driver Max5260
+Driver Max5260 is injured
+FNCD Vehicle BigFoot 6 broke down in the race event
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max9561
+FNCD Vehicle BigFoot 1 came in 7 place
+Mechanics Jack2098 has quit the FNCD
+Intern John7266 has been hired to replace Mechanics Jack2098
+Tracker : Day17
+Total money earned by all Staff : $197168.13000000003
+Total money earned by the FNCD : $186442.8

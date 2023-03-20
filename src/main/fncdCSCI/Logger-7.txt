@@ -1,0 +1,22 @@
+
+****FNCD Day: 7****
+
+Racing...
+FNCD Vehicle PU1069434 is participating in the race with driver Max5397
+Driver Max5397 is injured
+FNCD Vehicle PU1069434 broke down in the race event
+FNCD Vehicle PU2111959 is participating in the race with driver Max9275
+FNCD Vehicle PU2111959 came in 14 place
+FNCD Vehicle PU343663 is participating in the race with driver Max1908
+FNCD Vehicle PU343663 came in 10 place
+Racing...
+FNCD Vehicle PU8879491 is participating in the race with driver Max1175
+FNCD Vehicle PU8879491 came in 5 place
+FNCD Vehicle PU175950 is participating in the race with driver Max9561
+Driver Max9561 won their 1 race
+FNCD Vehicle PU175950 won its 1 race.
+FNCD Vehicle PU3180458 is participating in the race with driver Max5260
+FNCD Vehicle PU3180458 came in 14 place
+Tracker : Day7
+Total money earned by all Staff : $220.2
+Total money earned by the FNCD : $0.0

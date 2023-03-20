@@ -1,7 +1,7 @@
 # OOAD
 **Project** -- Friendly Neighborhood Car Dealership Simulation
 
-Command to run FNCD file: **javac Main.java** followed by **java Main**
+Command to run FNCD file: cd into src/main/fncdCSCI and then  **javac Main.java** followed by **java Main**
 
 **-- TEAM MEMBERS**
 1. Prateek Kumar
@@ -13,13 +13,19 @@ OpenJDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
 OpenJDK 64-Bit Server VM Temurin-17.0.6+10 (build 17.0.6+10, mixed mode.
 
 **-- Reason to Update UML:**
-The inital UML diagram had repeated attributes across Classes of Staff and SalesPeople, Mechanics and Interns respectively.
-This was fixed by creating a SuperClass ManageStaff which was extended to the three types of Staff. This helped us to 
-track the objects of the different StaffType in one place and use the common functionalities of the staffType. The same procedure
-was repeated for Vehicle Class named: VehicleInventory. Finally, we also updated Buyer Class to include the 
-vehicleDesired and salesPerson from their respective class instances. Finally, we added classes of different activities of the FNCD
- simulation:Opening, Washing, Repairing, Selling and EndOfDay operations which were an extension of the FNCD class. FNCD class is used to track 
-the buyers, entire staff fleet and vehicle fleet and uses function like getDateDay() to track if the FNCD will be open on the day of the simulation. 
+— Reason to update UML diagram : In the previous UML diagram, a displaymenu class was used as the request class for the command pattern, which contained all the command functions, however in this UML diagram we have decided to use the FNCD class as the request class in the command pattern, since this removes the need for the creation of another class. We have also introduced another class called “invoker” which is the invoker class that picks up requests for different commands and executes the commands. We have also removed the factory class for the buyer class as it was not necessary.
+
+
+
+Command pattern : the command pattern was used to take different requests such as getSalesPersonName, getTime, getVehicleInventory, getVehicleDetails, buyVehicle, etc, from a user in an interactive manner. These requests were then wrapped in a Command interface and were then picked up and executed by an Invoker class. 
+
+
+
+Factory pattern : the factory pattern was used to create multiple instances of different types of vehicles and staff.
+
+
+
+Singleton pattern : The singleton pattern was used to ensure that only one instance of logger and tracker were created.
 
 **--OO ELEMENTS--**
 1. Inheritance: Example of Inheritance: Opening class inherits from the FNCD class (Opening.java)

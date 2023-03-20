@@ -1,0 +1,163 @@
+
+****FNCD Day: 1****
+
+Opening... (current budddget $500000.0)
+Hired Inten John424
+Hired Inten John3494
+Hired Inten John4134
+Hired Mechanic Jack2156
+Hired Mechanic Jack882
+Hired Mechanic Jack6858
+Hired SalesPerson Michael9316
+Hired SalesPerson Michael378
+Hired SalesPerson Michael7841
+Hired Driver Max5397
+Hired Driver Max1908
+Hired Driver Max9275
+Purchased Used, clean performancecar for 31376.0 cost
+Purchased Used, clean performancecar for 20534.4 cost
+Purchased Used, dirty performancecar for 12687.0 cost
+Purchased Used, dirty performancecar for 19572.5 cost
+Purchased Used, dirty performancecar for 14649.5 cost
+Purchased Used, dirty performancecar for 32685.0 cost
+Purchased Used, dirty pickup for 19774.0 cost
+Purchased Used, clean pickup for 13759.5 cost
+Purchased Used, dirty pickup for 16666.0 cost
+Purchased Used, dirty pickup for 38920.0 cost
+Purchased Used, clean pickup for 22625.0 cost
+Purchased Used, dirty pickup for 35823.0 cost
+Purchased Used, dirty car for 14778.0 cost
+Purchased Used, clean car for 18232.0 cost
+Purchased Used, clean car for 14159.5 cost
+Purchased Used, dirty car for 13122.400000000001 cost
+Purchased Used, clean car for 19559.0 cost
+Purchased Used, dirty car for 24334.4 cost
+Purchased Used, clean Electric for 313.6 cost
+Purchased Used, dirty Electric for 64.8 cost
+Purchased Used, clean Electric for 210.0 cost
+Purchased Used, dirty Electric for 315.0 cost
+Purchased Used, dirty Electric for 161.60000000000002 cost
+Purchased Used, clean Electric for 281.6 cost
+Purchased Used, dirty MotorCycle for 16732.0 cost
+Purchased Used, sparkling MotorCycle for 10834.400000000001 cost
+Purchased Used, dirty MotorCycle for 13983.0 cost
+Purchased Used, dirty MotorCycle for 17245.600000000002 cost
+Purchased Used, dirty MotorCycle for 12812.0 cost
+Purchased Used, dirty MotorCycle for 21807.0 cost
+Purchased Used, sparkling MonsterTruck for 39357.0 cost
+Purchased Used, clean MonsterTruck for 33300.0 cost
+Purchased Used, clean MonsterTruck for 37883.200000000004 cost
+Purchased Used, dirty MonsterTruck for 16648.0 cost
+Purchased Used, dirty MonsterTruck for 27171.2 cost
+Purchased Used, dirty MonsterTruck for 22382.5 cost
+Purchased Used, dirty Ambulance for 15845.6 cost
+Purchased Used, dirty Ambulance for 13167.2 cost
+Purchased Used, dirty Ambulance for 15526.0 cost
+Purchased Used, dirty Ambulance for 14546.0 cost
+Purchased Used, dirty Ambulance for 13637.6 cost
+Purchased Used, dirty Ambulance for 8264.5 cost
+Purchased Used, clean Bus for 21441.0 cost
+Purchased Used, dirty Bus for 13414.0 cost
+Purchased Used, sparkling Bus for 18282.4 cost
+Purchased Used, clean Bus for 18553.0 cost
+Purchased Used, dirty Bus for 25435.0 cost
+Purchased Used, dirty Bus for 15014.400000000001 cost
+Purchased Used, clean SkateBoard for 14561.5 cost
+Purchased Used, dirty SkateBoard for 15119.2 cost
+Purchased Used, dirty SkateBoard for 12072.0 cost
+Purchased Used, dirty SkateBoard for 15829.0 cost
+Purchased Used, clean SkateBoard for 14655.5 cost
+Purchased Used, dirty SkateBoard for 21467.2 cost
+Opening... (current budddget $500000.0)
+Hired Inten John5080
+Hired Inten John7266
+Hired Inten John7097
+Hired Mechanic Jack3001
+Hired Mechanic Jack3953
+Hired Mechanic Jack2098
+Hired SalesPerson Michael3680
+Hired SalesPerson Michael2305
+Hired SalesPerson Michael6631
+Hired Driver Max1175
+Hired Driver Max9561
+Hired Driver Max5260
+Purchased Used, dirty performancecar for 22416.0 cost
+Purchased Used, dirty performancecar for 11416.0 cost
+Purchased Used, clean performancecar for 30352.0 cost
+Purchased Used, dirty performancecar for 23468.0 cost
+Purchased Used, dirty performancecar for 33350.0 cost
+Purchased Used, dirty performancecar for 17091.5 cost
+Purchased Used, dirty pickup for 16971.0 cost
+Purchased Used, dirty pickup for 18350.0 cost
+Purchased Used, dirty pickup for 19860.0 cost
+Purchased Used, dirty pickup for 19322.4 cost
+Purchased Used, dirty pickup for 15166.5 cost
+Purchased Used, sparkling pickup for 11821.0 cost
+Purchased Used, clean car for 7055.0 cost
+Purchased Used, dirty car for 9584.0 cost
+Purchased Used, dirty car for 16763.2 cost
+Purchased Used, clean car for 28421.0 cost
+Purchased Used, clean car for 16067.5 cost
+Purchased Used, clean car for 10074.5 cost
+Purchased Used, dirty Electric for 104.0 cost
+Purchased Used, clean Electric for 116.0 cost
+Purchased Used, dirty Electric for 78.4 cost
+Purchased Used, clean Electric for 64.0 cost
+Purchased Used, clean Electric for 292.8 cost
+Purchased Used, dirty Electric for 239.20000000000002 cost
+Purchased Used, dirty MotorCycle for 23350.0 cost
+Purchased Used, clean MotorCycle for 11862.5 cost
+Purchased Used, sparkling MotorCycle for 23374.0 cost
+Purchased Used, clean MotorCycle for 28233.0 cost
+Purchased Used, sparkling MotorCycle for 8428.0 cost
+Purchased Used, clean MotorCycle for 7980.0 cost
+Purchased Used, sparkling MonsterTruck for 34970.4 cost
+Purchased Used, clean MonsterTruck for 28809.600000000002 cost
+Purchased Used, dirty MonsterTruck for 29123.2 cost
+Purchased Used, clean MonsterTruck for 36637.0 cost
+Purchased Used, dirty MonsterTruck for 36506.0 cost
+Purchased Used, dirty MonsterTruck for 33403.0 cost
+Purchased Used, clean Ambulance for 16209.0 cost
+Purchased Used, dirty Ambulance for 24231.0 cost
+Purchased Used, dirty Ambulance for 15837.0 cost
+Purchased Used, clean Ambulance for 7179.0 cost
+Purchased Used, dirty Ambulance for 16884.0 cost
+Purchased Used, dirty Ambulance for 6602.0 cost
+Purchased Used, sparkling Bus for 12443.0 cost
+Purchased Used, dirty Bus for 13905.6 cost
+Purchased Used, sparkling Bus for 9941.5 cost
+Purchased Used, clean Bus for 20360.0 cost
+Purchased Used, dirty Bus for 8426.4 cost
+Purchased Used, dirty Bus for 9336.800000000001 cost
+Purchased Used, sparkling SkateBoard for 5177.0 cost
+Purchased Used, sparkling SkateBoard for 5052.0 cost
+Purchased Used, dirty SkateBoard for 9142.4 cost
+Purchased Used, dirty SkateBoard for 10105.6 cost
+Purchased Used, dirty SkateBoard for 10505.0 cost
+Purchased Used, dirty SkateBoard for 10886.0 cost
+Washing with Elbow
+Intern John3494 washed vehicle clean car CA157906 and made it sparkling (earned $1955.9 bonus)
+Intern John424 washed vehicle dirty Bus BS 14 and made it sparkling (earned $1341.4 bonus)
+Intern John424 washed vehicle dirty Ambulance AMBL9 and made it clean (earned $0.0 bonus)
+Washing with Detailed
+Intern John7266 washed vehicle dirty SkateBoard SK 21 and made it clean (earned $0.0 bonus)
+Intern John7266 washed vehicle dirty pickup PU5056452 and made it sparkling (earned $1932.2400000000002 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Used Electric TSLA6719674 and made it LikeNew (earned $84.48 bonus)
+Mechanic Jack882 repaired vehicle Used Ambulance AMBL8 and made it Used (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3953 repaired vehicle Used performancecar PE1948280 and made it LikeNew (earned $9105.6 bonus)
+Mechanic Jack3001 repaired vehicle Broken SkateBoard SK 23 and made it Used (earned $3151.5 bonus)
+Mechanic Jack3953 repaired vehicle Broken Bus BS 15 and made it Used (earned $2982.45 bonus)
+Selling...
+SalesPerson Michael378 sold sparkling LikeNew MonsterTruck BigFoot 1 to Buyer for $78714.0 (earned $3935.7000000000003 bonus)
+Selling...
+SalesPerson Michael6631 sold dirty LikeNew performancecar PE1948280 to Buyer for $75880.0 (earned $3035.2000000000003 bonus)
+SalesPerson Michael2305 sold clean LikeNew car CA5652877 to Buyer for $56842.0 (earned $2842.1000000000004 bonus)
+Salespeople Michael378 has quit the FNCD
+Intern John4134 has been hired to replace Salespeople Michael378
+Tracker : Day1
+Total money earned by all Staff : $70684.61999999998
+Total money earned by the FNCD : $211436.0
+FNCD East Coast has run out of money. The operating budget has been replenished by $250,000.00
+FNCD West Coast has run out of money. The operating budget has been replenished by $250,000.00

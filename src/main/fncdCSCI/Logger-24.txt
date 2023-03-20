@@ -1,0 +1,43 @@
+
+****FNCD Day: 24****
+
+Opening... (current budddget $1438040.0430000008)
+Purchased Used, clean MonsterTruck for 37267.0 cost
+Opening... (current budddget $756538.6166000002)
+Hired Inten John4999
+Purchased Used, clean car for 31026.4 cost
+Washing with Detailed
+Intern John3494 washed vehicle dirty SkateBoard SK 23 and made it sparkling (earned $1465.5500000000002 bonus)
+Washing with Elbow
+Intern John8959 washed vehicle dirty performancecar PE8925199 and made it sparkling (earned $2887.8 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Broken performancecar PE5357252 and made it Used (earned $4750.8 bonus)
+Mechanic Jack882 repaired vehicle Broken pickup PU2111959 and made it Used (earned $4127.849999999999 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Broken Ambulance AMBL12 and made it Used (earned $1980.6 bonus)
+Mechanic John7266 repaired vehicle Used MonsterTruck BigFoot 1 and made it LikeNew (earned $7484.88 bonus)
+Mechanic Jack3001 repaired vehicle Used performancecar PE8177518 and made it LikeNew (earned $7760.4 bonus)
+Selling...
+SalesPerson Michael378 sold dirty Used pickup PU2111959 to Buyer for $77397.1875 (earned $1375.95 bonus)
+SalesPerson Michael378 sold clean LikeNew MonsterTruck BigFoot 1 to Buyer for $74534.0 (earned $3726.7000000000003 bonus)
+Selling...
+SalesPerson Michael2305 sold clean Used car CA4970709 to Buyer for $62052.8 (earned $3102.6400000000003 bonus)
+SalesPerson Michael2305 sold sparkling LikeNew car CA3556875 to Buyer for $25102.0 (earned $1255.1000000000001 bonus)
+Racing...
+FNCD Vehicle BigFoot 4 is participating in the race with driver Max1908
+FNCD Vehicle BigFoot 4 came in 9 place
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max9275
+FNCD Vehicle BigFoot 1 came in 12 place
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max4098
+Driver Max4098 won their 2 race
+FNCD Vehicle BigFoot 1 won its 1 race.
+Racing...
+FNCD Vehicle PE1403990 is participating in the race with driver Max9561
+FNCD Vehicle PE1403990 came in 5 place
+FNCD Vehicle PE6867725 is participating in the race with driver Max1040
+FNCD Vehicle PE6867725 came in 14 place
+FNCD Vehicle PE4718180 is participating in the race with driver Max4862
+FNCD Vehicle PE4718180 came in 9 place
+Tracker : Day24
+Total money earned by all Staff : $239094.79600000012
+Total money earned by the FNCD : $241889.03125000003

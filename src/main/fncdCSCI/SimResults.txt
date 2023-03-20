@@ -1,0 +1,1347 @@
+
+****FNCD Day: 1****
+
+Opening... (current budddget $500000.0)
+Hired Inten John1892
+Hired Inten John7375
+Hired Inten John4895
+Hired Mechanic Jack9783
+Hired Mechanic Jack5263
+Hired Mechanic Jack3481
+Hired SalesPerson Michael877
+Hired SalesPerson Michael7280
+Hired SalesPerson Michael8075
+Hired Driver Max9314
+Hired Driver Max8239
+Hired Driver Max199
+Purchased Used, clean performancecar for 38997.0 cost
+Purchased Used, dirty performancecar for 16161.0 cost
+Purchased Used, dirty performancecar for 10565.0 cost
+Purchased Used, dirty performancecar for 16242.0 cost
+Purchased Used, dirty performancecar for 21131.0 cost
+Purchased Used, dirty performancecar for 31542.4 cost
+Purchased Used, sparkling pickup for 11742.5 cost
+Purchased Used, dirty pickup for 10894.0 cost
+Purchased Used, dirty pickup for 20037.600000000002 cost
+Purchased Used, dirty pickup for 19760.0 cost
+Purchased Used, dirty pickup for 11585.5 cost
+Purchased Used, clean pickup for 27997.600000000002 cost
+Purchased Used, sparkling car for 35459.0 cost
+Purchased Used, clean car for 33083.0 cost
+Purchased Used, dirty car for 19861.600000000002 cost
+Purchased Used, clean car for 14259.0 cost
+Purchased Used, clean car for 36873.0 cost
+Purchased Used, dirty car for 16351.5 cost
+Purchased Used, dirty Electric for 138.0 cost
+Purchased Used, dirty Electric for 284.8 cost
+Purchased Used, dirty Electric for 52.0 cost
+Purchased Used, dirty Electric for 198.4 cost
+Purchased Used, dirty Electric for 175.20000000000002 cost
+Purchased Used, dirty Electric for 63.2 cost
+Purchased Used, clean MotorCycle for 17451.2 cost
+Purchased Used, dirty MotorCycle for 14694.0 cost
+Purchased Used, clean MotorCycle for 15735.2 cost
+Purchased Used, dirty MotorCycle for 19342.4 cost
+Purchased Used, dirty MotorCycle for 24958.0 cost
+Purchased Used, dirty MotorCycle for 11800.800000000001 cost
+Purchased Used, dirty MonsterTruck for 34519.200000000004 cost
+Purchased Used, clean MonsterTruck for 19766.0 cost
+Purchased Used, dirty MonsterTruck for 47385.0 cost
+Purchased Used, dirty MonsterTruck for 42872.0 cost
+Purchased Used, dirty MonsterTruck for 24225.0 cost
+Purchased Used, clean MonsterTruck for 41237.0 cost
+Purchased Used, clean Ambulance for 23554.0 cost
+Purchased Used, clean Ambulance for 17679.2 cost
+Purchased Used, dirty Ambulance for 6618.5 cost
+Purchased Used, dirty Ambulance for 5914.0 cost
+Purchased Used, dirty Ambulance for 9816.800000000001 cost
+Purchased Used, dirty Ambulance for 17536.0 cost
+Purchased Used, dirty Bus for 9559.5 cost
+Purchased Used, dirty Bus for 8807.0 cost
+Purchased Used, dirty Bus for 17334.4 cost
+Purchased Used, dirty Bus for 9471.0 cost
+Purchased Used, dirty Bus for 20906.4 cost
+Purchased Used, dirty Bus for 9800.0 cost
+Purchased Used, clean SkateBoard for 10979.5 cost
+Purchased Used, dirty SkateBoard for 15056.0 cost
+Purchased Used, clean SkateBoard for 11464.0 cost
+Purchased Used, dirty SkateBoard for 14345.5 cost
+Purchased Used, clean SkateBoard for 14341.0 cost
+Purchased Used, clean SkateBoard for 10859.2 cost
+Opening... (current budddget $500000.0)
+Hired Inten John6545
+Hired Inten John1235
+Hired Inten John5941
+Hired Mechanic Jack4
+Hired Mechanic Jack3595
+Hired Mechanic Jack75
+Hired SalesPerson Michael7697
+Hired SalesPerson Michael4362
+Hired SalesPerson Michael9245
+Hired Driver Max4923
+Hired Driver Max6911
+Hired Driver Max6728
+Purchased Used, clean performancecar for 17650.4 cost
+Purchased Used, dirty performancecar for 30811.0 cost
+Purchased Used, clean performancecar for 30933.600000000002 cost
+Purchased Used, dirty performancecar for 19803.0 cost
+Purchased Used, dirty performancecar for 17137.5 cost
+Purchased Used, dirty performancecar for 29265.600000000002 cost
+Purchased Used, clean pickup for 27680.0 cost
+Purchased Used, dirty pickup for 15984.0 cost
+Purchased Used, clean pickup for 26534.4 cost
+Purchased Used, dirty pickup for 19984.0 cost
+Purchased Used, dirty pickup for 28085.600000000002 cost
+Purchased Used, clean pickup for 18240.0 cost
+Purchased Used, dirty car for 18363.0 cost
+Purchased Used, clean car for 38998.0 cost
+Purchased Used, dirty car for 10205.0 cost
+Purchased Used, dirty car for 16891.5 cost
+Purchased Used, clean car for 23756.0 cost
+Purchased Used, dirty car for 20882.0 cost
+Purchased Used, dirty Electric for 300.0 cost
+Purchased Used, dirty Electric for 60.5 cost
+Purchased Used, dirty Electric for 63.5 cost
+Purchased Used, clean Electric for 221.60000000000002 cost
+Purchased Used, clean Electric for 42.5 cost
+Purchased Used, dirty Electric for 359.0 cost
+Purchased Used, dirty MotorCycle for 14491.0 cost
+Purchased Used, dirty MotorCycle for 18840.8 cost
+Purchased Used, clean MotorCycle for 7915.5 cost
+Purchased Used, dirty MotorCycle for 9265.0 cost
+Purchased Used, dirty MotorCycle for 23182.0 cost
+Purchased Used, clean MotorCycle for 26550.0 cost
+Purchased Used, dirty MonsterTruck for 24959.0 cost
+Purchased Used, clean MonsterTruck for 48308.0 cost
+Purchased Used, dirty MonsterTruck for 21095.5 cost
+Purchased Used, clean MonsterTruck for 30184.0 cost
+Purchased Used, dirty MonsterTruck for 44062.0 cost
+Purchased Used, clean MonsterTruck for 17931.5 cost
+Purchased Used, clean Ambulance for 10739.2 cost
+Purchased Used, clean Ambulance for 13543.2 cost
+Purchased Used, dirty Ambulance for 7309.0 cost
+Purchased Used, dirty Ambulance for 13645.5 cost
+Purchased Used, dirty Ambulance for 16901.600000000002 cost
+Purchased Used, dirty Ambulance for 12219.2 cost
+Purchased Used, dirty Bus for 12298.5 cost
+Purchased Used, clean Bus for 12035.2 cost
+Purchased Used, dirty Bus for 22392.800000000003 cost
+Purchased Used, sparkling Bus for 14126.0 cost
+Purchased Used, clean Bus for 11464.800000000001 cost
+Purchased Used, dirty Bus for 11972.0 cost
+Purchased Used, clean SkateBoard for 16423.2 cost
+Purchased Used, dirty SkateBoard for 21902.4 cost
+Purchased Used, dirty SkateBoard for 16636.8 cost
+Purchased Used, sparkling SkateBoard for 16500.0 cost
+Purchased Used, clean SkateBoard for 14037.5 cost
+Purchased Used, dirty SkateBoard for 11236.5 cost
+Washing with Chemical
+Intern John7375 washed vehicle clean MonsterTruck BigFoot 6 and made it sparkling (earned $4123.7 bonus)
+Intern John1892 washed vehicle dirty MotorCycle MC2742805 and made it clean (earned $0.0 bonus)
+Intern John1892 washed vehicle clean MotorCycle MC1633713 and made it sparkling (earned $1573.5200000000002 bonus)
+Washing with Detailed
+Intern John1235 washed vehicle dirty Ambulance AMBL12 and made it clean (earned $0.0 bonus)
+Intern John1235 washed vehicle dirty Ambulance AMBL10 and made it sparkling (earned $1364.5500000000002 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used Ambulance AMBL8 and made it Used (earned $0.0 bonus)
+Mechanic Jack9783 repaired vehicle Used Ambulance AMBL11 and made it Used (earned $0.0 bonus)
+Mechanic Jack5263 repaired vehicle Used Electric TSLA9070978 and made it LikeNew (earned $15.6 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken MotorCycle MC3042671 and made it Used (earned $2779.5 bonus)
+Mechanic Jack4 repaired vehicle Broken Bus BS 16 and made it Used (earned $4237.8 bonus)
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL8 and made it Used (earned $0.0 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 3 to Buyer for $94770.0 (earned $4738.5 bonus)
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 4 to Buyer for $85744.0 (earned $4287.2 bonus)
+Selling...
+Intern John5941 has quit the FNCD
+Tracker : Day1
+Total money earned by all Staff : $40451.87
+Total money earned by the FNCD : $180514.0
+FNCD East Coast has run out of money. The operating budget has been replenished by $250,000.00
+FNCD West Coast has run out of money. The operating budget has been replenished by $250,000.00
+
+****FNCD Day: 2****
+
+Opening... (current budddget $224293.37999999995)
+Purchased Used, dirty MonsterTruck for 22804.5 cost
+Purchased Used, dirty MonsterTruck for 45034.0 cost
+Opening... (current budddget $-462801.25)
+Hired Inten John2457
+Washing with Chemical
+Intern John7375 washed vehicle dirty performancecar PE5476909 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John6545 washed vehicle clean car CA9328126 and made it sparkling (earned $2375.6 bonus)
+Intern John1235 washed vehicle dirty Ambulance AMBL8 and made it clean (earned $0.0 bonus)
+Intern John1235 washed vehicle clean car CA5965534 and made it sparkling (earned $3899.8 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Used Bus BS 17 and made it LikeNew (earned $6271.92 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Broken Ambulance AMBL10 and made it Used (earned $4093.6499999999996 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 2 to Buyer for $90068.0 (earned $4503.400000000001 bonus)
+Selling...
+SalesPerson Michael4362 sold clean Used performancecar PE6114675 to Buyer for $61867.200000000004 (earned $3093.3600000000006 bonus)
+Tracker : Day2
+Total money earned by all Staff : $64931.12000000001
+Total money earned by the FNCD : $182322.24
+
+****FNCD Day: 3****
+
+Opening... (current budddget $253761.15999999995)
+Purchased Used, dirty MonsterTruck for 19087.5 cost
+Opening... (current budddget $-402023.01999999996)
+Purchased Used, clean performancecar for 10688.0 cost
+Washing with Chemical
+Intern John7375 washed vehicle dirty Ambulance AMBL10 and made it clean (earned $0.0 bonus)
+Intern John7375 washed vehicle dirty pickup PU2766052 and made it sparkling (earned $2003.7600000000002 bonus)
+Washing with Elbow
+Intern John6545 washed vehicle dirty car CA901794 and made it sparkling (earned $1689.15 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken Bus BS 14 and made it Used (earned $2642.1 bonus)
+Mechanic Jack9783 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6841.349999999999 bonus)
+Mechanic Jack9783 repaired vehicle Used MonsterTruck BigFoot 1 and made it LikeNew (earned $10355.76 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used MonsterTruck BigFoot 4 and made it LikeNew (earned $9055.199999999999 bonus)
+Mechanic Jack3595 repaired vehicle Broken SkateBoard SK 24 and made it Used (earned $3370.95 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $86298.00000000001 (earned $3451.9200000000005 bonus)
+Selling...
+SalesPerson Michael7697 sold dirty LikeNew performancecar PE2240256 to Buyer for $61622.0 (earned $3081.1000000000004 bonus)
+SalesPerson Michael7697 sold sparkling LikeNew car CA5965534 to Buyer for $77996.0 (earned $3899.8 bonus)
+Racing...
+FNCD Vehicle PE1139858 is participating in the race with driver Max9314
+Driver Max9314 is injured
+FNCD Vehicle PE1139858 broke down in the race event
+FNCD Vehicle PE1737659 is participating in the race with driver Max199
+FNCD Vehicle PE1737659 broke down in the race event
+FNCD Vehicle PE5476909 is participating in the race with driver Max8239
+FNCD Vehicle PE5476909 came in 12 place
+Racing...
+FNCD Vehicle MC6027662 is participating in the race with driver Max4923
+FNCD Vehicle MC6027662 came in 7 place
+FNCD Vehicle MC7751518 is participating in the race with driver Max6911
+Driver Max6911 won their 1 race
+FNCD Vehicle MC7751518 won its 1 race.
+FNCD Vehicle MC7769714 is participating in the race with driver Max6728
+FNCD Vehicle MC7769714 came in 5 place
+Tracker : Day3
+Total money earned by all Staff : $96243.09960000002
+Total money earned by the FNCD : $250152.42000000004
+
+****FNCD Day: 4****
+
+Opening... (current budddget $299991.67)
+Hired Driver Max3559
+Purchased Used, clean MonsterTruck for 22472.0 cost
+Opening... (current budddget $-274493.78959999996)
+Purchased Used, dirty performancecar for 30373.0 cost
+Purchased Used, sparkling car for 19569.0 cost
+Washing with Elbow
+Intern John1892 washed vehicle dirty Electric TSLA8694172 and made it sparkling (earned $13.8 bonus)
+Intern John7375 washed vehicle dirty Bus BS 14 and made it clean (earned $0.0 bonus)
+Intern John7375 washed vehicle dirty SkateBoard SK 20 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle dirty MonsterTruck BigFoot 3 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle dirty MonsterTruck BigFoot 1 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 2 and made it Broken (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used Bus BS 14 and made it LikeNew (earned $3610.56 bonus)
+Mechanic Jack4 repaired vehicle Used Electric TSLA3790384 and made it LikeNew (earned $66.48 bonus)
+Mechanic Jack3595 repaired vehicle Broken Electric TSLA3982112 and made it Used (earned $19.05 bonus)
+Selling...
+SalesPerson Michael8075 sold sparkling LikeNew MonsterTruck BigFoot 6 to Buyer for $82474.0 (earned $4123.7 bonus)
+SalesPerson Michael8075 sold clean Broken performancecar PE1139858 to Buyer for $77994.0 (earned $3899.7000000000003 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty LikeNew performancecar PE5915739 to Buyer for $60746.0 (earned $3037.3 bonus)
+SalesPerson Michael7697 sold dirty Used performancecar PE4448408 to Buyer for $58531.200000000004 (earned $2926.5600000000004 bonus)
+SalesPerson Michael7697 sold sparkling Used car CA9328126 to Buyer for $47512.0 (earned $2375.6 bonus)
+Intern John7375 has quit the FNCD
+Tracker : Day4
+Total money earned by all Staff : $98477.54000000002
+Total money earned by the FNCD : $360285.84880000004
+
+****FNCD Day: 5****
+
+Opening... (current budddget $434074.17)
+Hired Inten John8407
+Purchased Used, dirty performancecar for 36812.0 cost
+Purchased Used, dirty MonsterTruck for 21273.0 cost
+Opening... (current budddget $-140777.1907999999)
+Purchased Used, clean performancecar for 18325.0 cost
+Purchased Used, dirty performancecar for 23968.0 cost
+Purchased Used, dirty car for 9161.5 cost
+Washing with Elbow
+Intern John1892 washed vehicle dirty Electric TSLA5834468 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle dirty Bus BS 18 and made it clean (earned $0.0 bonus)
+Intern John1235 washed vehicle clean Bus BS 17 and made it sparkling (earned $1146.4800000000002 bonus)
+Intern John6545 washed vehicle dirty Electric TSLA3790384 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken Ambulance AMBL10 and made it Used (earned $1774.2 bonus)
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Broken (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used SkateBoard SK 22 and made it LikeNew (earned $4950.0 bonus)
+Mechanic Jack3595 repaired vehicle Used Electric TSLA8321710 and made it LikeNew (earned $90.0 bonus)
+Selling...
+SalesPerson Michael8075 sold clean LikeNew car CA6417611 to Buyer for $73746.0 (earned $3687.3 bonus)
+SalesPerson Michael877 sold dirty LikeNew performancecar PE705617 to Buyer for $73624.0 (earned $3681.2000000000003 bonus)
+SalesPerson Michael7280 sold sparkling LikeNew car CA8092499 to Buyer for $70918.0 (earned $3545.9 bonus)
+SalesPerson Michael8075 sold clean LikeNew car CA1608675 to Buyer for $66166.0 (earned $3308.3 bonus)
+Selling...
+SalesPerson Michael7697 sold dirty LikeNew car CA5935915 to Buyer for $41764.0 (earned $2088.2000000000003 bonus)
+SalesPerson Michael9245 sold sparkling Broken car CA9377 to Buyer for $39138.0 (earned $1956.9 bonus)
+Tracker : Day5
+Total money earned by all Staff : $131149.72
+Total money earned by the FNCD : $415020.658
+
+****FNCD Day: 6****
+
+Opening... (current budddget $685758.128)
+Purchased Used, dirty performancecar for 21922.4 cost
+Purchased Used, dirty car for 15599.5 cost
+Purchased Used, dirty car for 20813.0 cost
+Purchased Used, dirty car for 5878.5 cost
+Opening... (current budddget $-113208.47079999992)
+Purchased Used, dirty car for 19235.5 cost
+Purchased Used, dirty car for 20971.0 cost
+Washing with Detailed
+Intern John1892 washed vehicle dirty MotorCycle MC2799803 and made it sparkling (earned $2495.8 bonus)
+Intern John1892 washed vehicle dirty MotorCycle MC4347057 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John1235 washed vehicle dirty performancecar PE370844 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 5 and made it Used (earned $7267.5 bonus)
+Mechanic Jack5263 repaired vehicle Broken car CA461554 and made it Used (earned $1763.55 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $7487.7 bonus)
+Mechanic Jack3595 repaired vehicle Broken car CA901794 and made it Used (earned $5067.45 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew car CA6919719 to Buyer for $41626.0 (earned $2081.3 bonus)
+SalesPerson Michael877 sold dirty Used car CA7791729 to Buyer for $39723.200000000004 (earned $1986.1600000000003 bonus)
+Selling...
+SalesPerson Michael9245 sold clean Used performancecar PE370844 to Buyer for $47936.0 (earned $2396.8 bonus)
+SalesPerson Michael7697 sold dirty Broken performancecar PE713674 to Buyer for $39606.0 (earned $1980.3000000000002 bonus)
+Tracker : Day6
+Total money earned by all Staff : $114475.64000000004
+Total money earned by the FNCD : $171288.0
+
+****FNCD Day: 7****
+
+Racing...
+FNCD Vehicle PE1737659 is participating in the race with driver Max8239
+FNCD Vehicle PE1737659 came in 5 place
+FNCD Vehicle PE5476909 is participating in the race with driver Max199
+FNCD Vehicle PE5476909 came in 6 place
+FNCD Vehicle PE3900439 is participating in the race with driver Max3559
+Driver Max3559 won their 1 race
+FNCD Vehicle PE3900439 won its 1 race.
+Racing...
+FNCD Vehicle MC6027662 is participating in the race with driver Max4923
+FNCD Vehicle MC6027662 came in 11 place
+FNCD Vehicle MC7751518 is participating in the race with driver Max6911
+FNCD Vehicle MC7751518 came in 7 place
+FNCD Vehicle MC7769714 is participating in the race with driver Max6728
+Driver Max6728 is injured
+FNCD Vehicle MC7769714 broke down in the race event
+Tracker : Day7
+Total money earned by all Staff : $194.90400000000002
+Total money earned by the FNCD : $0.0
+
+****FNCD Day: 8****
+
+Opening... (current budddget $687104.7139999998)
+Purchased Used, clean car for 16722.0 cost
+Purchased Used, clean car for 9249.5 cost
+Opening... (current budddget $-80408.42079999995)
+Hired Driver Max5495
+Purchased Used, clean performancecar for 21454.0 cost
+Purchased Used, dirty performancecar for 17132.5 cost
+Washing with Elbow
+Intern John1892 washed vehicle dirty car CA2936905 and made it sparkling (earned $1559.95 bonus)
+Intern John1892 washed vehicle dirty MonsterTruck BigFoot 1 and made it sparkling (earned $2280.4500000000003 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle clean Ambulance AMBL10 and made it sparkling (earned $1364.5500000000002 bonus)
+Intern John6545 washed vehicle clean performancecar PE9029969 and made it sparkling (earned $2145.4 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used Electric TSLA9001110 and made it Used (earned $0.0 bonus)
+Mechanic Jack9783 repaired vehicle Used performancecar PE4845085 and made it LikeNew (earned $9462.72 bonus)
+Mechanic Jack9783 repaired vehicle Broken car CA3063195 and made it Used (earned $2774.85 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Broken MonsterTruck BigFoot 6 and made it Used (earned $5379.45 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew performancecar PE4845085 to Buyer for $78856.0 (earned $3154.2400000000002 bonus)
+Selling...
+SalesPerson Michael4362 sold clean Used car CA901794 to Buyer for $50674.5 (earned $1689.15 bonus)
+Tracker : Day8
+Total money earned by all Staff : $131066.66000000002
+Total money earned by the FNCD : $132064.225
+
+****FNCD Day: 9****
+
+Opening... (current budddget $720757.004)
+Purchased Used, clean performancecar for 19032.0 cost
+Opening... (current budddget $-76365.24579999993)
+Purchased Used, dirty car for 8119.0 cost
+Washing with Elbow
+Intern John1892 washed vehicle clean MotorCycle MC5517688 and made it sparkling (earned $1745.1200000000001 bonus)
+Intern John1892 washed vehicle clean SkateBoard SK 19 and made it sparkling (earned $1097.95 bonus)
+Washing with Detailed
+Intern John1235 washed vehicle dirty MotorCycle MC6027662 and made it clean (earned $0.0 bonus)
+Intern John1235 washed vehicle dirty MotorCycle MC7250230 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Used Bus BS 15 and made it LikeNew (earned $5200.320000000001 bonus)
+Mechanic Jack9783 repaired vehicle Broken performancecar PE1737659 and made it Used (earned $4848.3 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used pickup PU7114992 and made it LikeNew (earned $5472.0 bonus)
+Mechanic Jack4 repaired vehicle Broken Bus BS 13 and made it Used (earned $3689.5499999999997 bonus)
+Mechanic Jack4 repaired vehicle Used SkateBoard SK 21 and made it Used (earned $0.0 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 5 to Buyer for $72675.0 (earned $2422.5 bonus)
+SalesPerson Michael877 sold sparkling Used MonsterTruck BigFoot 1 to Buyer for $68413.5 (earned $2280.4500000000003 bonus)
+SalesPerson Michael8075 sold clean Broken car CA7691163 to Buyer for $33444.0 (earned $1672.2 bonus)
+Selling...
+SalesPerson Michael4362 sold sparkling LikeNew performancecar PE9029969 to Buyer for $42908.0 (earned $2145.4 bonus)
+SalesPerson Michael9245 sold clean Broken performancecar PE7517034 to Buyer for $36650.0 (earned $1832.5 bonus)
+Tracker : Day9
+Total money earned by all Staff : $135295.43999999997
+Total money earned by the FNCD : $259740.6
+
+****FNCD Day: 10****
+
+Opening... (current budddget $858662.8640000001)
+Purchased Used, dirty car for 18063.5 cost
+Purchased Used, dirty MonsterTruck for 40840.0 cost
+Purchased Used, dirty MonsterTruck for 31635.2 cost
+Opening... (current budddget $-14087.795799999934)
+Purchased Used, dirty performancecar for 21906.4 cost
+Purchased Used, dirty performancecar for 18008.0 cost
+Washing with Elbow
+Intern John1892 washed vehicle clean performancecar PE9744774 and made it dirty (earned $0.0 bonus)
+Intern John1892 washed vehicle clean SkateBoard SK 23 and made it sparkling (earned $1434.1000000000001 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle clean MotorCycle MC6027662 and made it sparkling (earned $1449.1000000000001 bonus)
+Intern John1235 washed vehicle clean MotorCycle MC7769714 and made it sparkling (earned $791.5500000000001 bonus)
+Intern John1235 washed vehicle dirty car CA6760813 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6381.9 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL8 and made it LikeNew (earned $4062.96 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $81680.0 (earned $4084.0 bonus)
+SalesPerson Michael8075 sold dirty Broken car CA5257094 to Buyer for $36127.0 (earned $1806.3500000000001 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Used performancecar PE9532813 to Buyer for $43812.8 (earned $2190.6400000000003 bonus)
+SalesPerson Michael7697 sold dirty Used performancecar PE8562048 to Buyer for $36016.0 (earned $1800.8000000000002 bonus)
+SalesPerson Michael4362 sold clean LikeNew car CA6760813 to Buyer for $41942.0 (earned $2097.1 bonus)
+Racing...
+FNCD Vehicle PE1737659 is participating in the race with driver Max8239
+FNCD Vehicle PE1737659 came in 7 place
+FNCD Vehicle PE5476909 is participating in the race with driver Max199
+Driver Max199 won their 1 race
+FNCD Vehicle PE5476909 won its 1 race.
+FNCD Vehicle PE3900439 is participating in the race with driver Max3559
+FNCD Vehicle PE3900439 came in 10 place
+Racing...
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max4923
+FNCD Vehicle BigFoot 1 came in 9 place
+FNCD Vehicle BigFoot 2 is participating in the race with driver Max6911
+FNCD Vehicle BigFoot 2 came in 8 place
+FNCD Vehicle BigFoot 3 is participating in the race with driver Max5495
+FNCD Vehicle BigFoot 3 came in 13 place
+Tracker : Day10
+Total money earned by all Staff : $139528.34000000003
+Total money earned by the FNCD : $245852.44
+
+****FNCD Day: 11****
+
+Opening... (current budddget $876182.0340000001)
+Purchased Used, dirty car for 10443.5 cost
+Purchased Used, clean MonsterTruck for 20368.0 cost
+Opening... (current budddget $57567.09420000007)
+Purchased Used, dirty performancecar for 17078.0 cost
+Purchased Used, dirty performancecar for 31341.600000000002 cost
+Purchased Used, clean car for 15837.0 cost
+Washing with Chemical
+Intern John4895 washed vehicle dirty Electric TSLA4757374 and made it clean (earned $0.0 bonus)
+Intern John4895 washed vehicle dirty Ambulance AMBL11 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John1235 washed vehicle dirty Electric TSLA8321710 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle dirty car CA5130725 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Broken (earned $0.0 bonus)
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6741.599999999999 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Broken performancecar PE4851711 and made it Used (earned $5123.4 bonus)
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL10 and made it Used (earned $0.0 bonus)
+Mechanic Jack3595 repaired vehicle Broken MotorCycle MC6027662 and made it Used (earned $4347.3 bonus)
+Selling...
+SalesPerson Michael877 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $67416.0 (earned $2247.2000000000003 bonus)
+Selling...
+SalesPerson Michael4362 sold dirty Used performancecar PE8497847 to Buyer for $62683.200000000004 (earned $3134.1600000000003 bonus)
+SalesPerson Michael9245 sold dirty Used performancecar PE4851711 to Buyer for $51234.0 (earned $1707.8000000000002 bonus)
+Tracker : Day11
+Total money earned by all Staff : $136058.00000000003
+Total money earned by the FNCD : $200512.26
+
+****FNCD Day: 12****
+
+Opening... (current budddget $917280.9340000001)
+Purchased Used, dirty MonsterTruck for 23634.5 cost
+Opening... (current budddget $98610.89420000007)
+Purchased Used, dirty performancecar for 16449.0 cost
+Purchased Used, dirty performancecar for 23064.800000000003 cost
+Washing with Detailed
+Intern John1892 washed vehicle dirty MotorCycle MC2189820 and made it sparkling (earned $1934.2400000000002 bonus)
+Intern John1892 washed vehicle clean Bus BS 14 and made it sparkling (earned $880.7 bonus)
+Washing with Detailed
+Intern John1235 washed vehicle clean performancecar PE6303989 and made it dirty (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Broken (earned $0.0 bonus)
+Mechanic Jack9783 repaired vehicle Used SkateBoard SK 24 and made it LikeNew (earned $3257.76 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Used Ambulance AMBL10 and made it LikeNew (earned $4093.6499999999996 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $63819.0 (earned $2127.3 bonus)
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 2 to Buyer for $63270.4 (earned $3163.5200000000004 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Used performancecar PE256297 to Buyer for $46129.600000000006 (earned $2306.4800000000005 bonus)
+SalesPerson Michael7697 sold dirty Used performancecar PE6303989 to Buyer for $35300.8 (earned $1765.0400000000002 bonus)
+Salespeople Michael9245 has quit the FNCD
+Intern John1235 has been hired to replace Salespeople Michael9245
+Tracker : Day12
+Total money earned by all Staff : $163377.89
+Total money earned by the FNCD : $218743.48
+
+****FNCD Day: 13****
+
+Opening... (current budddget $1012535.8340000001)
+Purchased Used, dirty MonsterTruck for 48625.0 cost
+Purchased Used, clean MonsterTruck for 34848.8 cost
+Opening... (current budddget $139422.48420000006)
+Hired Inten John511
+Purchased Used, clean performancecar for 12714.5 cost
+Purchased Used, dirty performancecar for 12999.0 cost
+Washing with Elbow
+Intern John1892 washed vehicle dirty car CA847745 and made it clean (earned $0.0 bonus)
+Intern John4895 washed vehicle dirty Electric TSLA6491722 and made it sparkling (earned $17.520000000000003 bonus)
+Intern John4895 washed vehicle dirty SkateBoard SK 24 and made it sparkling (earned $1085.92 bonus)
+Washing with Elbow
+Intern John6545 washed vehicle dirty MonsterTruck BigFoot 1 and made it clean (earned $0.0 bonus)
+Intern John2457 washed vehicle dirty Ambulance AMBL9 and made it clean (earned $0.0 bonus)
+Intern John2457 washed vehicle dirty pickup PU2151173 and made it sparkling (earned $1998.4 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken Bus BS 13 and made it Used (earned $2867.85 bonus)
+Mechanic Jack9783 repaired vehicle Used pickup PU3613899 and made it LikeNew (earned $8399.28 bonus)
+Mechanic Jack9783 repaired vehicle Broken SkateBoard SK 19 and made it Used (earned $3293.85 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Used SkateBoard SK 20 and made it LikeNew (earned $6570.72 bonus)
+Mechanic Jack3595 repaired vehicle Broken car CA1407699 and made it Used (earned $2748.45 bonus)
+Mechanic Jack4 repaired vehicle Broken performancecar PE3596540 and made it Used (earned $3206.4 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $97250.0 (earned $4862.5 bonus)
+SalesPerson Michael877 sold dirty LikeNew pickup PU3613899 to Buyer for $69994.0 (earned $2799.76 bonus)
+SalesPerson Michael877 sold clean Used MonsterTruck BigFoot 2 to Buyer for $69697.6 (earned $3484.8800000000006 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Broken performancecar PE5532548 to Buyer for $34275.0 (earned $1713.75 bonus)
+Tracker : Day13
+Total money earned by all Staff : $191357.65000000002
+Total money earned by the FNCD : $316009.044
+
+****FNCD Day: 14****
+
+Racing...
+FNCD Vehicle BigFoot 2 is participating in the race with driver Max8239
+FNCD Vehicle BigFoot 2 came in 6 place
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max199
+Driver Max199 won their 2 race
+FNCD Vehicle BigFoot 1 won its 1 race.
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max3559
+Driver Max3559 won their 2 race
+FNCD Vehicle BigFoot 1 won its 1 race.
+Racing...
+FNCD Vehicle PE3596540 is participating in the race with driver Max4923
+FNCD Vehicle PE3596540 came in 9 place
+FNCD Vehicle PE1574510 is participating in the race with driver Max6911
+FNCD Vehicle PE1574510 came in 4 place
+FNCD Vehicle PE3579536 is participating in the race with driver Max5495
+FNCD Vehicle PE3579536 broke down in the race event
+Tracker : Day14
+Total money earned by all Staff : $473.466
+Total money earned by the FNCD : $0.0
+
+****FNCD Day: 15****
+
+Opening... (current budddget $1183511.0520000001)
+Purchased Used, dirty pickup for 19643.2 cost
+Purchased Used, dirty MonsterTruck for 30840.800000000003 cost
+Purchased Used, dirty MonsterTruck for 37352.8 cost
+Opening... (current budddget $131746.2642000001)
+Purchased Used, clean performancecar for 23948.0 cost
+Washing with Chemical
+Intern John1892 washed vehicle dirty Bus BS 13 and made it clean (earned $0.0 bonus)
+Washing with Detailed
+Intern John6545 washed vehicle dirty car CA4002795 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken car CA6002240 and made it Used (earned $3133.0499999999997 bonus)
+Mechanic Jack9783 repaired vehicle Broken car CA3658818 and made it Used (earned $4277.7 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken Electric TSLA3308883 and made it Used (earned $12.75 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 2 to Buyer for $74705.6 (earned $3735.2800000000007 bonus)
+Selling...
+SalesPerson Michael9245 sold clean Used performancecar PE6665491 to Buyer for $47896.0 (earned $2394.8 bonus)
+SalesPerson Michael7697 sold dirty Broken performancecar PE1574510 to Buyer for $34265.0 (earned $1713.25 bonus)
+SalesPerson Michael7697 sold dirty Broken car CA5846692 to Buyer for $38471.0 (earned $1923.5500000000002 bonus)
+Salespeople Michael8075 has quit the FNCD
+Intern John4895 has been hired to replace Salespeople Michael8075
+Tracker : Day15
+Total money earned by all Staff : $176241.15999999997
+Total money earned by the FNCD : $217972.91999999998
+
+****FNCD Day: 16****
+
+Opening... (current budddget $1174174.942)
+Hired Inten John4013
+Purchased Used, dirty MonsterTruck for 39720.0 cost
+Opening... (current budddget $230080.11420000013)
+Purchased Used, clean performancecar for 28114.4 cost
+Purchased Used, clean performancecar for 10731.0 cost
+Purchased Used, dirty car for 31283.2 cost
+Washing with Detailed
+Intern John8407 washed vehicle clean MotorCycle MC4347057 and made it sparkling (earned $1469.4 bonus)
+Intern John8407 washed vehicle dirty Bus BS 17 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John2457 washed vehicle clean Ambulance AMBL7 and made it dirty (earned $0.0 bonus)
+Intern John6545 washed vehicle clean Ambulance AMBL9 and made it sparkling (earned $730.9000000000001 bonus)
+Intern John6545 washed vehicle clean Electric TSLA3790384 and made it sparkling (earned $22.160000000000004 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used Bus BS 13 and made it LikeNew (earned $2867.85 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL11 and made it Used (earned $0.0 bonus)
+Mechanic Jack3595 repaired vehicle Used Bus BS 17 and made it LikeNew (earned $3439.44 bonus)
+Selling...
+SalesPerson Michael877 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $79440.0 (earned $3972.0 bonus)
+SalesPerson Michael7280 sold dirty Used car CA3658818 to Buyer for $42777.0 (earned $1425.9 bonus)
+Selling...
+SalesPerson Michael7697 sold clean Used performancecar PE7963975 to Buyer for $56228.8 (earned $2811.4400000000005 bonus)
+SalesPerson Michael7697 sold dirty Used car CA9128135 to Buyer for $62566.4 (earned $3128.32 bonus)
+Mechanics Jack75 has quit the FNCD
+Intern John2457 has been hired to replace Mechanics Jack75
+Tracker : Day16
+Total money earned by all Staff : $191829.24999999997
+Total money earned by the FNCD : $272142.67376000003
+
+****FNCD Day: 17****
+
+Opening... (current budddget $1262030.8120000002)
+Purchased Used, dirty car for 8838.0 cost
+Purchased Used, sparkling MonsterTruck for 24506.0 cost
+Opening... (current budddget $284650.90796000016)
+Hired Inten John483
+Purchased Used, dirty performancecar for 36524.0 cost
+Purchased Used, sparkling car for 30772.0 cost
+Washing with Chemical
+Intern John8407 washed vehicle dirty pickup PU654108 and made it sparkling (earned $1976.0 bonus)
+Intern John1892 washed vehicle clean SkateBoard SK 20 and made it sparkling (earned $1505.6000000000001 bonus)
+Intern John1892 washed vehicle dirty car CA461554 and made it clean (earned $0.0 bonus)
+Washing with Detailed
+Intern John6545 washed vehicle clean Bus BS 17 and made it sparkling (earned $1146.4800000000002 bonus)
+Intern John511 washed vehicle dirty SkateBoard SK 21 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle clean car CA4002795 and made it dirty (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken pickup PU3527138 and made it Used (earned $3475.65 bonus)
+Mechanic Jack9783 repaired vehicle Used Ambulance AMBL10 and made it LikeNew (earned $1774.2 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken MotorCycle MC7769714 and made it Used (earned $2374.65 bonus)
+Mechanic Jack4 repaired vehicle Broken SkateBoard SK 23 and made it Broken (earned $0.0 bonus)
+Mechanic Jack3595 repaired vehicle Used Electric TSLA3308883 and made it LikeNew (earned $12.75 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $61681.600000000006 (earned $3084.0800000000004 bonus)
+SalesPerson Michael877 sold clean LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+Selling...
+SalesPerson Michael7697 sold dirty LikeNew performancecar PE6498393 to Buyer for $73048.0 (earned $3652.4 bonus)
+SalesPerson Michael7697 sold sparkling Used car CA4093091 to Buyer for $61544.0 (earned $3077.2000000000003 bonus)
+Racing...
+FNCD Vehicle MC5517688 is participating in the race with driver Max8239
+FNCD Vehicle MC5517688 came in 4 place
+FNCD Vehicle MC4347057 is participating in the race with driver Max199
+FNCD Vehicle MC4347057 came in 13 place
+FNCD Vehicle MC1633713 is participating in the race with driver Max3559
+FNCD Vehicle MC1633713 came in 13 place
+Racing...
+FNCD Vehicle PE3596540 is participating in the race with driver Max4923
+FNCD Vehicle PE3596540 broke down in the race event
+FNCD Vehicle PE3579536 is participating in the race with driver Max6911
+FNCD Vehicle PE3579536 came in 12 place
+FNCD Vehicle PE9219683 is participating in the race with driver Max5495
+FNCD Vehicle PE9219683 came in 10 place
+Mechanics Jack3481 has quit the FNCD
+Intern John1892 has been hired to replace Mechanics Jack3481
+Tracker : Day17
+Total money earned by all Staff : $187146.47
+Total money earned by the FNCD : $271842.912
+
+****FNCD Day: 18****
+
+Opening... (current budddget $1329961.8740000003)
+Hired Inten John517
+Purchased Used, dirty MonsterTruck for 35063.0 cost
+Opening... (current budddget $363753.1079600001)
+Purchased Used, clean performancecar for 20700.800000000003 cost
+Purchased Used, clean car for 27023.0 cost
+Washing with Chemical
+Intern John8407 washed vehicle dirty Bus BS 18 and made it sparkling (earned $980.0 bonus)
+Washing with Detailed
+Intern John6545 washed vehicle dirty Ambulance AMBL7 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle dirty MotorCycle MC3042671 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used pickup PU3527138 and made it Used (earned $0.0 bonus)
+Mechanic Jack5263 repaired vehicle Broken car CA8823835 and made it Used (earned $2651.4 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used MotorCycle MC7769714 and made it LikeNew (earned $2374.65 bonus)
+Mechanic Jack4 repaired vehicle Used pickup PU1804419 and made it LikeNew (earned $8425.68 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $70126.0 (earned $3506.3 bonus)
+Selling...
+SalesPerson Michael9245 sold clean Used performancecar PE9340202 to Buyer for $41401.600000000006 (earned $2070.0800000000004 bonus)
+Tracker : Day18
+Total money earned by all Staff : $193773.83000000002
+Total money earned by the FNCD : $129760.36
+
+****FNCD Day: 19****
+
+Opening... (current budddget $1376119.9340000004)
+Purchased Used, clean MonsterTruck for 32799.200000000004 cost
+Opening... (current budddget $344560.4979600001)
+Purchased Used, dirty performancecar for 17831.0 cost
+Washing with Chemical
+Intern John4013 washed vehicle dirty pickup PU8356346 and made it clean (earned $0.0 bonus)
+Intern John4013 washed vehicle dirty MonsterTruck BigFoot 2 and made it sparkling (earned $1976.6000000000001 bonus)
+Washing with Detailed
+Intern John6545 washed vehicle clean Bus BS 16 and made it sparkling (earned $1412.6000000000001 bonus)
+Intern John511 washed vehicle clean Electric TSLA8321710 and made it dirty (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used Ambulance AMBL8 and made it LikeNew (earned $5303.76 bonus)
+Mechanic Jack5263 repaired vehicle Used MotorCycle MC1633713 and made it LikeNew (earned $4720.56 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Broken Ambulance AMBL9 and made it Used (earned $2192.7 bonus)
+Mechanic Jack4 repaired vehicle Used Ambulance AMBL11 and made it LikeNew (earned $5070.4800000000005 bonus)
+Selling...
+SalesPerson Michael877 sold clean Used MonsterTruck BigFoot 1 to Buyer for $65598.40000000001 (earned $3279.9200000000005 bonus)
+SalesPerson Michael877 sold clean LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Broken performancecar PE1972979 to Buyer for $35662.0 (earned $1783.1000000000001 bonus)
+SalesPerson Michael7697 sold dirty Broken performancecar PE3579536 to Buyer for $32898.0 (earned $1644.9 bonus)
+SalesPerson Michael4362 sold clean LikeNew car CA6009061 to Buyer for $54046.0 (earned $2702.3 bonus)
+Intern John517 has quit the FNCD
+Tracker : Day19
+Total money earned by all Staff : $204997.41999999995
+Total money earned by the FNCD : $256417.69999999998
+
+****FNCD Day: 20****
+
+Opening... (current budddget $1457402.8140000002)
+Hired Inten John2553
+Purchased Used, clean MonsterTruck for 35300.8 cost
+Opening... (current budddget $436887.5579600002)
+Purchased Used, dirty performancecar for 29957.0 cost
+Purchased Used, clean performancecar for 17849.0 cost
+Purchased Used, dirty car for 8609.6 cost
+Washing with Elbow
+Intern John8407 washed vehicle dirty performancecar PE9744774 and made it clean (earned $0.0 bonus)
+Intern John8407 washed vehicle dirty Ambulance AMBL10 and made it sparkling (earned $591.4 bonus)
+Washing with Detailed
+Intern John6545 washed vehicle dirty Bus BS 14 and made it sparkling (earned $1203.5200000000002 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Used pickup PU740569 and made it Used (earned $0.0 bonus)
+Mechanic Jack9783 repaired vehicle Used MotorCycle MC2189820 and made it LikeNew (earned $5802.72 bonus)
+Mechanic Jack5263 repaired vehicle Used SkateBoard SK 19 and made it LikeNew (earned $3293.85 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken pickup PU2109704 and made it Used (earned $4795.2 bonus)
+Selling...
+SalesPerson Michael8075 sold clean Used MonsterTruck BigFoot 1 to Buyer for $70601.6 (earned $3530.0800000000004 bonus)
+SalesPerson Michael877 sold clean LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+SalesPerson Michael877 sold clean LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+Selling...
+SalesPerson Michael4362 sold dirty LikeNew car CA5239088 to Buyer for $36726.0 (earned $1836.3000000000002 bonus)
+SalesPerson Michael7697 sold clean LikeNew car CA1835572 to Buyer for $31674.0 (earned $1583.7 bonus)
+Tracker : Day20
+Total money earned by all Staff : $200621.73
+Total money earned by the FNCD : $263945.3
+
+****FNCD Day: 21****
+
+Racing...
+FNCD Vehicle MC5517688 is participating in the race with driver Max8239
+FNCD Vehicle MC5517688 came in 14 place
+FNCD Vehicle MC4347057 is participating in the race with driver Max199
+FNCD Vehicle MC4347057 broke down in the race event
+FNCD Vehicle MC1633713 is participating in the race with driver Max3559
+FNCD Vehicle MC1633713 broke down in the race event
+Racing...
+FNCD Vehicle PE3596540 is participating in the race with driver Max4923
+FNCD Vehicle PE3596540 came in 11 place
+FNCD Vehicle PE9219683 is participating in the race with driver Max6911
+FNCD Vehicle PE9219683 broke down in the race event
+FNCD Vehicle PE8563628 is participating in the race with driver Max5495
+FNCD Vehicle PE8563628 came in 8 place
+Tracker : Day21
+Total money earned by all Staff : $0.0
+Total money earned by the FNCD : $0.0
+
+****FNCD Day: 22****
+
+Opening... (current budddget $1592902.7840000005)
+Purchased Used, dirty MonsterTruck for 45813.0 cost
+Opening... (current budddget $446798.4379600002)
+Purchased Used, dirty car for 31592.0 cost
+Purchased Used, dirty car for 28381.600000000002 cost
+Washing with Elbow
+Intern John4013 washed vehicle clean MotorCycle MC2742805 and made it sparkling (earned $1180.0800000000002 bonus)
+Intern John8407 washed vehicle clean MotorCycle MC1633713 and made it sparkling (earned $1573.5200000000002 bonus)
+Intern John4013 washed vehicle clean Bus BS 17 and made it sparkling (earned $2090.6400000000003 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle clean MonsterTruck BigFoot 1 and made it sparkling (earned $2495.9 bonus)
+Intern John511 washed vehicle clean MonsterTruck BigFoot 3 and made it sparkling (earned $2109.55 bonus)
+Intern John511 washed vehicle dirty MonsterTruck BigFoot 4 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack5263 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6110.4 bonus)
+Mechanic Jack9783 repaired vehicle Used performancecar PE7037098 and made it LikeNew (earned $6576.72 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL9 and made it LikeNew (earned $2192.7 bonus)
+Mechanic Jack3595 repaired vehicle Used Bus BS 15 and made it Used (earned $0.0 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $91626.0 (earned $4581.3 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty LikeNew performancecar PE2538894 to Buyer for $59914.0 (earned $2995.7000000000003 bonus)
+Mechanics Jack5263 has quit the FNCD
+Intern John4013 has been hired to replace Mechanics Jack5263
+Tracker : Day22
+Total money earned by all Staff : $220650.27000000002
+Total money earned by the FNCD : $159117.0
+
+****FNCD Day: 23****
+
+Opening... (current budddget $1621184.4240000006)
+Hired Inten John5143
+Purchased Used, dirty MonsterTruck for 31741.0 cost
+Opening... (current budddget $439940.6879600002)
+Purchased Used, dirty performancecar for 33451.0 cost
+Washing with Elbow
+Intern John8407 washed vehicle dirty Ambulance AMBL8 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John511 washed vehicle dirty Ambulance AMBL10 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle clean SkateBoard SK 21 and made it sparkling (earned $1663.68 bonus)
+Repairing...
+Mechanic John1892 repaired vehicle Broken performancecar PE5476909 and made it Broken (earned $0.0 bonus)
+Mechanic Jack9783 repaired vehicle Used Electric TSLA4757374 and made it LikeNew (earned $85.44 bonus)
+Mechanic Jack9783 repaired vehicle Used pickup PU3527138 and made it LikeNew (earned $3475.65 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used Bus BS 13 and made it LikeNew (earned $3689.5499999999997 bonus)
+Mechanic Jack3595 repaired vehicle Broken SkateBoard SK 23 and made it Used (earned $4211.25 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $63482.0 (earned $3174.1000000000004 bonus)
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $61104.0 (earned $2036.8000000000002 bonus)
+Selling...
+SalesPerson Michael4362 sold dirty LikeNew performancecar PE7863839 to Buyer for $66902.0 (earned $3345.1000000000004 bonus)
+Tracker : Day23
+Total money earned by all Staff : $215381.68000000008
+Total money earned by the FNCD : $217089.19999999998
+
+****FNCD Day: 24****
+
+Opening... (current budddget $1717478.2340000006)
+Purchased Used, dirty MonsterTruck for 33674.4 cost
+Purchased Used, dirty MonsterTruck for 21799.0 cost
+Opening... (current budddget $473862.5079600002)
+Purchased Used, dirty performancecar for 18880.0 cost
+Washing with Elbow
+Intern John8407 washed vehicle clean car CA847745 and made it sparkling (earned $1635.15 bonus)
+Intern John2553 washed vehicle dirty pickup PU3527138 and made it clean (earned $0.0 bonus)
+Intern John2553 washed vehicle dirty Bus BS 15 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John6545 washed vehicle dirty MotorCycle MC7769714 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle dirty SkateBoard SK 23 and made it sparkling (earned $1403.75 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Used Electric TSLA9001110 and made it LikeNew (earned $59.519999999999996 bonus)
+Mechanic Jack9783 repaired vehicle Used MotorCycle MC2742805 and made it LikeNew (earned $3540.2400000000002 bonus)
+Repairing...
+Mechanic Jack4 repaired vehicle Used MotorCycle MC3042671 and made it LikeNew (earned $2779.5 bonus)
+Mechanic Jack3595 repaired vehicle Used Ambulance AMBL12 and made it LikeNew (earned $3665.76 bonus)
+Mechanic Jack3595 repaired vehicle Used car CA3454588 and made it LikeNew (earned $8514.48 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $67348.8 (earned $3367.4400000000005 bonus)
+SalesPerson Michael7280 sold sparkling Broken car CA847745 to Buyer for $32703.0 (earned $1635.15 bonus)
+SalesPerson Michael877 sold dirty Used car CA6002240 to Buyer for $31330.5 (earned $1044.3500000000001 bonus)
+SalesPerson Michael8075 sold dirty LikeNew performancecar PE7037098 to Buyer for $54806.0 (earned $2192.2400000000002 bonus)
+Selling...
+SalesPerson Michael7697 sold dirty LikeNew car CA3454588 to Buyer for $70954.0 (earned $2838.1600000000003 bonus)
+SalesPerson Michael4362 sold dirty Used car CA2411891 to Buyer for $63184.0 (earned $3159.2000000000003 bonus)
+SalesPerson Michael4362 sold dirty Used car CA1407699 to Buyer for $27484.5 (earned $916.1500000000001 bonus)
+Racing...
+FNCD Vehicle PU1803773 is participating in the race with driver Max8239
+FNCD Vehicle PU1803773 came in 7 place
+FNCD Vehicle PU8356346 is participating in the race with driver Max199
+FNCD Vehicle PU8356346 came in 11 place
+FNCD Vehicle PU2766052 is participating in the race with driver Max3559
+Driver Max3559 won their 3 race
+FNCD Vehicle PU2766052 won its 1 race.
+Racing...
+FNCD Vehicle MC6027662 is participating in the race with driver Max4923
+FNCD Vehicle MC6027662 came in 4 place
+FNCD Vehicle MC7751518 is participating in the race with driver Max6911
+Driver Max6911 is injured
+FNCD Vehicle MC7751518 broke down in the race event
+FNCD Vehicle MC7769714 is participating in the race with driver Max4923
+FNCD Vehicle MC7769714 came in 14 place
+Tracker : Day24
+Total money earned by all Staff : $227462.39120000004
+Total money earned by the FNCD : $365656.52999999997
+
+****FNCD Day: 25****
+
+Opening... (current budddget $1849165.122800001)
+Purchased Used, clean performancecar for 24729.0 cost
+Purchased Used, dirty car for 11524.0 cost
+Purchased Used, dirty car for 14352.5 cost
+Purchased Used, clean MonsterTruck for 30616.0 cost
+Opening... (current budddget $596487.2079600003)
+Hired Driver Max262
+Purchased Used, clean car for 10808.0 cost
+Purchased Used, clean car for 8884.800000000001 cost
+Purchased Used, dirty car for 9731.2 cost
+Washing with Detailed
+Intern John8407 washed vehicle clean car CA461554 and made it dirty (earned $0.0 bonus)
+Washing with Chemical
+Intern John6545 washed vehicle dirty Ambulance AMBL12 and made it clean (earned $0.0 bonus)
+Intern John6545 washed vehicle dirty car CA7342937 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken pickup PU8356346 and made it Used (earned $3268.2 bonus)
+Mechanic John1892 repaired vehicle Broken pickup PU1803773 and made it Broken (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used MotorCycle MC6027662 and made it LikeNew (earned $4347.3 bonus)
+Mechanic Jack4 repaired vehicle Broken performancecar PE9334898 and made it Used (earned $5354.7 bonus)
+Selling...
+SalesPerson Michael8075 sold clean LikeNew MonsterTruck BigFoot 1 to Buyer for $61232.0 (earned $3061.6000000000004 bonus)
+SalesPerson Michael8075 sold sparkling LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Used performancecar PE9334898 to Buyer for $53547.0 (earned $1784.9 bonus)
+SalesPerson Michael7697 sold clean LikeNew car CA5490291 to Buyer for $21616.0 (earned $1080.8 bonus)
+Tracker : Day25
+Total money earned by all Staff : $204973.19999999992
+Total money earned by the FNCD : $213796.201
+
+****FNCD Day: 26****
+
+Opening... (current budddget $1898156.383800001)
+Purchased Used, clean MonsterTruck for 36366.4 cost
+Opening... (current budddget $629658.5079600002)
+Purchased Used, clean performancecar for 17992.0 cost
+Purchased Used, dirty car for 6183.5 cost
+Washing with Chemical
+Intern John2553 washed vehicle clean MotorCycle MC2189820 and made it sparkling (earned $1934.2400000000002 bonus)
+Intern John2553 washed vehicle clean SkateBoard SK 21 and made it sparkling (earned $1146.4 bonus)
+Washing with Detailed
+Intern John511 washed vehicle dirty car CA4002795 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken pickup PU1803773 and made it Used (earned $3522.75 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used SkateBoard SK 24 and made it LikeNew (earned $3370.95 bonus)
+Selling...
+SalesPerson Michael8075 sold clean Used MonsterTruck BigFoot 1 to Buyer for $72732.8 (earned $3636.6400000000003 bonus)
+SalesPerson Michael8075 sold sparkling LikeNew Bus BS 17 to Buyer for $52266.0 (earned $2090.6400000000003 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty Used performancecar PE4206325 to Buyer for $37760.0 (earned $1888.0 bonus)
+Mechanics John1892 has quit the FNCD
+Intern John5143 has been hired to replace Mechanics John1892
+Tracker : Day26
+Total money earned by all Staff : $214287.22999999992
+Total money earned by the FNCD : $181669.328
+
+****FNCD Day: 27****
+
+Opening... (current budddget $1993368.6418000013)
+Hired Inten John3661
+Purchased Used, clean MonsterTruck for 30080.0 cost
+Opening... (current budddget $637984.0579600002)
+Purchased Used, dirty performancecar for 16682.4 cost
+Washing with Elbow
+Intern John8407 washed vehicle dirty car CA5448389 and made it sparkling (earned $1435.25 bonus)
+Intern John2553 washed vehicle dirty car CA461554 and made it clean (earned $0.0 bonus)
+Intern John8407 washed vehicle clean Bus BS 15 and made it sparkling (earned $1733.4400000000003 bonus)
+Washing with Chemical
+Intern John511 washed vehicle clean car CA3175156 and made it sparkling (earned $888.4800000000001 bonus)
+Intern John511 washed vehicle clean performancecar PE7415663 and made it sparkling (earned $1799.2 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Used Ambulance AMBL12 and made it LikeNew (earned $5260.8 bonus)
+Mechanic John4013 repaired vehicle Used performancecar PE1737659 and made it LikeNew (earned $4848.3 bonus)
+Mechanic John4013 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $7351.8 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used SkateBoard SK 19 and made it Used (earned $0.0 bonus)
+Mechanic Jack4 repaired vehicle Used MonsterTruck BigFoot 6 and made it LikeNew (earned $5379.45 bonus)
+Mechanic Jack3595 repaired vehicle Used performancecar PE7571166 and made it LikeNew (earned $5004.72 bonus)
+Selling...
+SalesPerson Michael8075 sold clean Used MonsterTruck BigFoot 1 to Buyer for $73518.0 (earned $2450.6 bonus)
+SalesPerson Michael877 sold dirty LikeNew performancecar PE1737659 to Buyer for $60603.75 (earned $1616.1000000000001 bonus)
+Selling...
+SalesPerson Michael9245 sold dirty LikeNew performancecar PE7571166 to Buyer for $41706.0 (earned $1668.2400000000002 bonus)
+SalesPerson Michael7697 sold sparkling Used performancecar PE7415663 to Buyer for $35984.0 (earned $1799.2 bonus)
+SalesPerson Michael7697 sold clean Broken car CA5130725 to Buyer for $20410.0 (earned $1020.5 bonus)
+Mechanics Jack4 has quit the FNCD
+Intern John6545 has been hired to replace Mechanics Jack4
+Tracker : Day27
+Total money earned by all Staff : $244931.23999999996
+Total money earned by the FNCD : $240797.91
+
+****FNCD Day: 28****
+
+Racing...
+FNCD Vehicle PU1803773 is participating in the race with driver Max8239
+FNCD Vehicle PU1803773 came in 11 place
+FNCD Vehicle PU8356346 is participating in the race with driver Max199
+FNCD Vehicle PU8356346 broke down in the race event
+FNCD Vehicle PU2766052 is participating in the race with driver Max3559
+FNCD Vehicle PU2766052 came in 4 place
+Racing...
+FNCD Vehicle PU9325706 is participating in the race with driver Max4923
+Driver Max4923 is injured
+FNCD Vehicle PU9325706 broke down in the race event
+FNCD Vehicle PU2109704 is participating in the race with driver Max262
+FNCD Vehicle PU2109704 came in 6 place
+FNCD Vehicle PU9738269 is participating in the race with driver Max5495
+FNCD Vehicle PU9738269 broke down in the race event
+Tracker : Day28
+Total money earned by all Staff : $0.0
+Total money earned by the FNCD : $0.0
+
+****FNCD Day: 29****
+
+Opening... (current budddget $2074184.461800001)
+Purchased Used, clean performancecar for 39937.0 cost
+Purchased Used, dirty MonsterTruck for 38732.0 cost
+Opening... (current budddget $708947.6679600003)
+Hired Inten John9729
+Hired Driver Max4246
+Purchased Used, clean performancecar for 24784.0 cost
+Purchased Used, clean performancecar for 16406.5 cost
+Purchased Used, dirty car for 12998.0 cost
+Washing with Elbow
+Intern John2553 washed vehicle dirty car CA3347312 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John483 washed vehicle dirty performancecar PE8563628 and made it sparkling (earned $1299.9 bonus)
+Intern John511 washed vehicle dirty performancecar PE3596540 and made it sparkling (earned $1068.8 bonus)
+Intern John511 washed vehicle dirty car CA2180500 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic John4013 repaired vehicle Broken SkateBoard SK 21 and made it Used (earned $3439.2 bonus)
+Mechanic John4013 repaired vehicle Used Bus BS 14 and made it LikeNew (earned $2642.1 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Used MonsterTruck BigFoot 1 and made it LikeNew (earned $7487.7 bonus)
+Mechanic John2457 repaired vehicle Broken pickup PU9325706 and made it Used (earned $8304.0 bonus)
+Mechanic Jack3595 repaired vehicle Broken performancecar PE3596540 and made it Used (earned $3206.4 bonus)
+Selling...
+SalesPerson Michael8075 sold clean LikeNew performancecar PE8183313 to Buyer for $79874.0 (earned $3993.7000000000003 bonus)
+Selling...
+SalesPerson Michael4362 sold clean Used performancecar PE9522632 to Buyer for $49568.0 (earned $2478.4 bonus)
+SalesPerson Michael9245 sold clean Used performancecar PE3596540 to Buyer for $48096.0 (earned $1068.8 bonus)
+Intern John9729 has quit the FNCD
+Tracker : Day29
+Total money earned by all Staff : $247289.99999999994
+Total money earned by the FNCD : $195991.2
+
+****FNCD Day: 30****
+
+Opening... (current budddget $2081289.2618000011)
+Purchased Used, dirty performancecar for 10923.0 cost
+Opening... (current budddget $729987.5679600002)
+Hired Inten John7159
+Purchased Used, clean performancecar for 14571.0 cost
+Purchased Used, dirty performancecar for 16211.2 cost
+Washing with Detailed
+Intern John8407 washed vehicle dirty Electric TSLA9070978 and made it sparkling (earned $5.2 bonus)
+Intern John8407 washed vehicle dirty Electric TSLA9001110 and made it clean (earned $0.0 bonus)
+Washing with Detailed
+Intern John511 washed vehicle dirty MotorCycle MC7751518 and made it sparkling (earned $1884.08 bonus)
+Intern John483 washed vehicle clean MotorCycle MC7250230 and made it sparkling (earned $2318.2000000000003 bonus)
+Repairing...
+Mechanic Jack9783 repaired vehicle Broken MonsterTruck BigFoot 2 and made it Used (earned $6539.7 bonus)
+Repairing...
+Mechanic Jack3595 repaired vehicle Broken pickup PU9738269 and made it Used (earned $7960.32 bonus)
+Mechanic John2457 repaired vehicle Broken pickup PU2151173 and made it Used (earned $5995.2 bonus)
+Selling...
+SalesPerson Michael8075 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $77464.0 (earned $3873.2000000000003 bonus)
+SalesPerson Michael7280 sold sparkling Broken car CA2936905 to Buyer for $31199.0 (earned $1559.95 bonus)
+Selling...
+SalesPerson Michael4362 sold clean Broken performancecar PE8598520 to Buyer for $32813.0 (earned $1640.65 bonus)
+Mechanics Jack3595 has quit the FNCD
+Intern John483 has been hired to replace Mechanics Jack3595
+Tracker : Day30
+Total money earned by all Staff : $241598.07999999993
+Total money earned by the FNCD : $151589.0
+
+
+
+ Printing Report for the East Coast...| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Salespeople     | Michael877      | 26              | 9416.1          | 1616.1000000000001 |
+| Salespeople     | Michael8075     | 26              | 11673.2         | 3873.2000000000003 |
+| Salespeople     | Michael7280     | 26              | 9359.95         | 1559.95         |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Mechanics       | Jack9783        | 26              | 5200.0          | 0.0             |
+| Mechanics       | John4013        | 7               | 1400.0          | 0.0             |
+| Mechanics       | John5143        | 3               | 600.0           | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Intern          | John8407        | 22              | 13599.36        | 11399.36        |
+| Intern          | John2553        | 9               | 3980.6400000000003 | 3080.6400000000003 |
+| Intern          | John3661        | 3               | 300.0           | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Driver          | Max8239         | 0               | 0.0             | 0.0             |
+| Driver          | Max199          | 0               | 0.0             | 0.0             |
+| Driver          | Max3559         | 0               | 0.0             | 0.0             |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| car             | CA461554        | 5878.5          | 17635.5         | Used            | clean           | Stock Available |
+| car             | CA3063195       | 9249.5          | 27748.5         | Used            | dirty           | Stock Available |
+| car             | CA8823835       | 8838.0          | 26514.0         | Used            | dirty           | Stock Available |
+| car             | CA3347312       | 11524.0         | 23048.0         | LikeNew         | clean           | Stock Available |
+| car             | CA5448389       | 14352.5         | 28705.0         | Broken          | sparkling       | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| performancecar  | PE5476909       | 10565.0         | 21130.0         | Broken          | dirty           | Stock Available |
+| performancecar  | PE3900439       | 16242.0         | 32484.0         | Broken          | dirty           | Stock Available |
+| performancecar  | PE1528236       | 21131.0         | 42262.0         | LikeNew         | dirty           | Stock Available |
+| performancecar  | PE9744774       | 19032.0         | 38064.0         | Used            | clean           | Stock Available |
+| performancecar  | PE9424960       | 24729.0         | 49458.0         | LikeNew         | clean           | Stock Available |
+| performancecar  | PE7312380       | 10923.0         | 21846.0         | Broken          | dirty           | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| pickup          | PU1803773       | 11742.5         | 35227.5         | Used            | dirty           | Stock Available |
+| pickup          | PU8356346       | 10894.0         | 32682.0         | Broken          | dirty           | Stock Available |
+| pickup          | PU2766052       | 20037.600000000002 | 40075.200000000004 | Used            | sparkling       | Stock Available |
+| pickup          | PU654108        | 19760.0         | 39520.0         | Used            | sparkling       | Stock Available |
+| pickup          | PU3527138       | 11585.5         | 43445.625       | LikeNew         | clean           | Stock Available |
+| pickup          | PU740569        | 19643.2         | 39286.4         | Used            | dirty           | Stock Available |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           | Status          |
+
+| Intern          | John5941        | 1               | 100.0           | 0.0             | Working Status: Quit |
+| Driver          | Max6728         | 0               | 0.0             | 0.0             | Working Status: Quit |
+| Salespeople     | Michael9245     | 26              | 8868.8          | 1068.8          | Working Status: Quit |
+| Mechanics       | Jack75          | 14              | 2800.0          | 0.0             | Working Status: Quit |
+| Driver          | Max6911         | 0               | 0.0             | 0.0             | Working Status: Quit |
+| Mechanics       | Jack4           | 24              | 4800.0          | 0.0             | Working Status: Quit |
+| Driver          | Max4923         | 0               | 0.0             | 0.0             | Working Status: Quit |
+| Intern          | John9729        | 1               | 100.0           | 0.0             | Working Status: Quit |
+| Mechanics       | Jack3595        | 26              | 5200.0          | 0.0             | Working Status: Quit |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| performancecar  | PE6114675       | 30933.600000000002 | 61867.200000000004 | Used            | clean           | Sold            |
+| performancecar  | PE2240256       | 30811.0         | 61622.0         | LikeNew         | dirty           | Sold            |
+| car             | CA5965534       | 38998.0         | 77996.0         | LikeNew         | sparkling       | Sold            |
+| performancecar  | PE5915739       | 30373.0         | 60746.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE4448408       | 29265.600000000002 | 58531.200000000004 | Used            | dirty           | Sold            |
+| car             | CA9328126       | 23756.0         | 47512.0         | Used            | sparkling       | Sold            |
+| car             | CA5935915       | 20882.0         | 41764.0         | LikeNew         | dirty           | Sold            |
+| car             | CA9377          | 19569.0         | 39138.0         | Broken          | sparkling       | Sold            |
+| performancecar  | PE370844        | 23968.0         | 47936.0         | Used            | clean           | Sold            |
+| performancecar  | PE713674        | 19803.0         | 39606.0         | Broken          | dirty           | Sold            |
+| car             | CA901794        | 16891.5         | 50674.5         | Used            | clean           | Sold            |
+| performancecar  | PE9029969       | 21454.0         | 42908.0         | LikeNew         | sparkling       | Sold            |
+| performancecar  | PE7517034       | 18325.0         | 36650.0         | Broken          | clean           | Sold            |
+| performancecar  | PE9532813       | 21906.4         | 43812.8         | Used            | dirty           | Sold            |
+| performancecar  | PE8562048       | 18008.0         | 36016.0         | Used            | dirty           | Sold            |
+| car             | CA6760813       | 20971.0         | 41942.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE8497847       | 31341.600000000002 | 62683.200000000004 | Used            | dirty           | Sold            |
+| performancecar  | PE4851711       | 17078.0         | 51234.0         | Used            | dirty           | Sold            |
+| performancecar  | PE256297        | 23064.800000000003 | 46129.600000000006 | Used            | dirty           | Sold            |
+| performancecar  | PE6303989       | 17650.4         | 35300.8         | Used            | dirty           | Sold            |
+| performancecar  | PE5532548       | 17137.5         | 34275.0         | Broken          | dirty           | Sold            |
+| performancecar  | PE6665491       | 23948.0         | 47896.0         | Used            | clean           | Sold            |
+| performancecar  | PE1574510       | 17132.5         | 34265.0         | Broken          | dirty           | Sold            |
+| car             | CA5846692       | 19235.5         | 38471.0         | Broken          | dirty           | Sold            |
+| performancecar  | PE7963975       | 28114.4         | 56228.8         | Used            | clean           | Sold            |
+| car             | CA9128135       | 31283.2         | 62566.4         | Used            | dirty           | Sold            |
+| performancecar  | PE6498393       | 36524.0         | 73048.0         | LikeNew         | dirty           | Sold            |
+| car             | CA4093091       | 30772.0         | 61544.0         | Used            | sparkling       | Sold            |
+| performancecar  | PE9340202       | 20700.800000000003 | 41401.600000000006 | Used            | clean           | Sold            |
+| performancecar  | PE1972979       | 17831.0         | 35662.0         | Broken          | dirty           | Sold            |
+| performancecar  | PE3579536       | 16449.0         | 32898.0         | Broken          | dirty           | Sold            |
+| car             | CA6009061       | 27023.0         | 54046.0         | LikeNew         | clean           | Sold            |
+| car             | CA5239088       | 18363.0         | 36726.0         | LikeNew         | dirty           | Sold            |
+| car             | CA1835572       | 15837.0         | 31674.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE2538894       | 29957.0         | 59914.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE7863839       | 33451.0         | 66902.0         | LikeNew         | dirty           | Sold            |
+| car             | CA3454588       | 28381.600000000002 | 70954.0         | LikeNew         | dirty           | Sold            |
+| car             | CA2411891       | 31592.0         | 63184.0         | Used            | dirty           | Sold            |
+| car             | CA1407699       | 9161.5          | 27484.5         | Used            | dirty           | Sold            |
+| performancecar  | PE9334898       | 17849.0         | 53547.0         | Used            | dirty           | Sold            |
+| car             | CA5490291       | 10808.0         | 21616.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE4206325       | 18880.0         | 37760.0         | Used            | dirty           | Sold            |
+| performancecar  | PE7571166       | 16682.4         | 41706.0         | LikeNew         | dirty           | Sold            |
+| performancecar  | PE7415663       | 17992.0         | 35984.0         | Used            | sparkling       | Sold            |
+| car             | CA5130725       | 10205.0         | 20410.0         | Broken          | clean           | Sold            |
+| performancecar  | PE9522632       | 24784.0         | 49568.0         | Used            | clean           | Sold            |
+| performancecar  | PE3596540       | 10688.0         | 48096.0         | Used            | clean           | Sold            |
+| performancecar  | PE8598520       | 16406.5         | 32813.0         | Broken          | clean           | Sold            |
+
+
+
+
+
+
+ Printing Report for the West Coast...| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Salespeople     | Michael7697     | 26              | 8820.5          | 1020.5          |
+| Salespeople     | Michael4362     | 26              | 9440.65         | 1640.65         |
+| Salespeople     | Michael9245     | 26              | 8868.8          | 1068.8          |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Mechanics       | John6545        | 2               | 400.0           | 0.0             |
+| Mechanics       | John2457        | 12              | 2400.0          | 0.0             |
+| Mechanics       | John483         | 0               | 0.0             | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Intern          | John511         | 15              | 9250.11         | 7750.110000000001 |
+| Intern          | John7159        | 1               | 100.0           | 0.0             |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           |
+
+| Driver          | Max5495         | 0               | 0.0             | 0.0             |
+| Driver          | Max262          | 0               | 0.0             | 0.0             |
+| Driver          | Max4246         | 0               | 0.0             | 0.0             |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| car             | CA4002795       | 8119.0          | 16238.0         | Broken          | clean           | Stock Available |
+| car             | CA3571802       | 8609.6          | 17219.2         | Used            | dirty           | Stock Available |
+| car             | CA3175156       | 8884.800000000001 | 17769.600000000002 | Used            | sparkling       | Stock Available |
+| car             | CA7342937       | 9731.2          | 19462.4         | Used            | clean           | Stock Available |
+| car             | CA9338527       | 6183.5          | 12367.0         | Broken          | dirty           | Stock Available |
+| car             | CA2180500       | 12998.0         | 25996.0         | Broken          | clean           | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| performancecar  | PE9219683       | 12714.5         | 25429.0         | Broken          | clean           | Stock Available |
+| performancecar  | PE8563628       | 12999.0         | 25998.0         | Broken          | sparkling       | Stock Available |
+| performancecar  | PE9382466       | 10731.0         | 21462.0         | Broken          | clean           | Stock Available |
+| performancecar  | PE9685132       | 14571.0         | 29142.0         | Broken          | clean           | Stock Available |
+| performancecar  | PE7639916       | 16211.2         | 32422.4         | Used            | dirty           | Stock Available |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| pickup          | PU9325706       | 27680.0         | 83040.0         | Used            | dirty           | Stock Available |
+| pickup          | PU2109704       | 15984.0         | 47952.0         | Used            | dirty           | Stock Available |
+| pickup          | PU9738269       | 26534.4         | 79603.20000000001 | Used            | dirty           | Stock Available |
+| pickup          | PU2151173       | 19984.0         | 59952.0         | Used            | clean           | Stock Available |
+| pickup          | PU1804419       | 28085.600000000002 | 70214.0         | LikeNew         | dirty           | Stock Available |
+| pickup          | PU7114992       | 18240.0         | 45600.0         | LikeNew         | dirty           | Stock Available |
+
+
+
+| Staff Type      | Name            | Total Days Worked | Total Salary    | Bonus           | Status          |
+
+| Driver          | Max9314         | 0               | 0.0             | 0.0             | Working Status: Quit |
+| Intern          | John7375        | 4               | 6527.46         | 6127.46         | Working Status: Quit |
+| Salespeople     | Michael8075     | 26              | 11673.2         | 3873.2000000000003 | Working Status: Quit |
+| Mechanics       | Jack3481        | 15              | 3000.0          | 0.0             | Working Status: Quit |
+| Intern          | John517         | 2               | 200.0           | 0.0             | Working Status: Quit |
+| Mechanics       | Jack5263        | 19              | 3800.0          | 0.0             | Working Status: Quit |
+| Mechanics       | John1892        | 8               | 1600.0          | 0.0             | Working Status: Quit |
+
+
+
+| Model Type      | ID              | Cost Price      | Selling Price   | Condition       | Cleanliness     | Status          |
+
+| MonsterTruck    | BigFoot 3       | 47385.0         | 94770.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 4       | 42872.0         | 85744.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 2       | 45034.0         | 90068.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 34519.200000000004 | 86298.00000000001 | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 6       | 41237.0         | 82474.0         | LikeNew         | sparkling       | Sold            |
+| performancecar  | PE1139858       | 38997.0         | 77994.0         | Broken          | clean           | Sold            |
+| car             | CA6417611       | 36873.0         | 73746.0         | LikeNew         | clean           | Sold            |
+| performancecar  | PE705617        | 36812.0         | 73624.0         | LikeNew         | dirty           | Sold            |
+| car             | CA8092499       | 35459.0         | 70918.0         | LikeNew         | sparkling       | Sold            |
+| car             | CA1608675       | 33083.0         | 66166.0         | LikeNew         | clean           | Sold            |
+| car             | CA6919719       | 20813.0         | 41626.0         | LikeNew         | dirty           | Sold            |
+| car             | CA7791729       | 19861.600000000002 | 39723.200000000004 | Used            | dirty           | Sold            |
+| performancecar  | PE4845085       | 31542.4         | 78856.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 5       | 24225.0         | 72675.0         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 22804.5         | 68413.5         | Used            | sparkling       | Sold            |
+| car             | CA7691163       | 16722.0         | 33444.0         | Broken          | clean           | Sold            |
+| MonsterTruck    | BigFoot 1       | 40840.0         | 81680.0         | LikeNew         | dirty           | Sold            |
+| car             | CA5257094       | 18063.5         | 36127.0         | Broken          | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 22472.0         | 67416.0         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 21273.0         | 63819.0         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 2       | 31635.2         | 63270.4         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 48625.0         | 97250.0         | LikeNew         | dirty           | Sold            |
+| pickup          | PU3613899       | 27997.600000000002 | 69994.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 2       | 34848.8         | 69697.6         | Used            | clean           | Sold            |
+| MonsterTruck    | BigFoot 2       | 37352.8         | 74705.6         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 39720.0         | 79440.0         | Used            | dirty           | Sold            |
+| car             | CA3658818       | 14259.0         | 42777.0         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 30840.800000000003 | 61681.600000000006 | Used            | dirty           | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| MonsterTruck    | BigFoot 1       | 35063.0         | 70126.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 32799.200000000004 | 65598.40000000001 | Used            | clean           | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| MonsterTruck    | BigFoot 1       | 35300.8         | 70601.6         | Used            | clean           | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| MonsterTruck    | BigFoot 1       | 45813.0         | 91626.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 31741.0         | 63482.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 20368.0         | 61104.0         | Used            | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 33674.4         | 67348.8         | Used            | dirty           | Sold            |
+| car             | CA847745        | 16351.5         | 32703.0         | Broken          | sparkling       | Sold            |
+| car             | CA6002240       | 10443.5         | 31330.5         | Used            | dirty           | Sold            |
+| performancecar  | PE7037098       | 21922.4         | 54806.0         | LikeNew         | dirty           | Sold            |
+| MonsterTruck    | BigFoot 1       | 30616.0         | 61232.0         | LikeNew         | clean           | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| MonsterTruck    | BigFoot 1       | 36366.4         | 72732.8         | Used            | clean           | Sold            |
+| Bus             | BS 17           | 20906.4         | 52266.0         | LikeNew         | sparkling       | Sold            |
+| MonsterTruck    | BigFoot 1       | 24506.0         | 73518.0         | Used            | clean           | Sold            |
+| performancecar  | PE1737659       | 16161.0         | 60603.75        | LikeNew         | dirty           | Sold            |
+| performancecar  | PE8183313       | 39937.0         | 79874.0         | LikeNew         | clean           | Sold            |
+| MonsterTruck    | BigFoot 1       | 38732.0         | 77464.0         | LikeNew         | dirty           | Sold            |
+| car             | CA2936905       | 15599.5         | 31199.0         | Broken          | sparkling       | Sold            |
+

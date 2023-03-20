@@ -1,0 +1,29 @@
+
+****FNCD Day: 8****
+
+Opening... (current budddget $342435.7289999999)
+Hired Driver Max4098
+Purchased Used, clean MonsterTruck for 33852.0 cost
+Opening... (current budddget $-24614.10840000005)
+Purchased Used, clean car for 17276.5 cost
+Purchased Used, dirty car for 11572.0 cost
+Washing with Chemical
+Intern John3494 washed vehicle dirty MotorCycle MC3241601 and made it clean (earned $0.0 bonus)
+Intern John424 washed vehicle dirty MotorCycle MC3271009 and made it clean (earned $0.0 bonus)
+Intern John3494 washed vehicle dirty performancecar PE3845270 and made it clean (earned $0.0 bonus)
+Washing with Detailed
+Intern John7266 washed vehicle clean Ambulance AMBL12 and made it sparkling (earned $660.2 bonus)
+Repairing...
+Mechanic Jack2156 repaired vehicle Used MotorCycle MC1248331 and made it LikeNew (earned $3250.32 bonus)
+Mechanic Jack882 repaired vehicle Used SkateBoard SK 21 and made it LikeNew (earned $3621.6 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Used Electric TSLA7442917 and made it LikeNew (earned $23.52 bonus)
+Mechanic Jack2098 repaired vehicle Broken car CA3133432 and made it Used (earned $2875.2 bonus)
+Selling...
+SalesPerson Michael7841 sold clean LikeNew MonsterTruck BigFoot 1 to Buyer for $67704.0 (earned $3385.2000000000003 bonus)
+Selling...
+SalesPerson Michael6631 sold clean LikeNew MonsterTruck BigFoot 1 to Buyer for $87426.0 (earned $3497.0400000000004 bonus)
+SalesPerson Michael2305 sold clean Broken car CA6249852 to Buyer for $34553.0 (earned $1727.65 bonus)
+Tracker : Day8
+Total money earned by all Staff : $125700.88999999998
+Total money earned by the FNCD : $212413.76

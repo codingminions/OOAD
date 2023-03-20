@@ -1,0 +1,45 @@
+
+****FNCD Day: 3****
+
+Opening... (current budddget $250598.1599999998)
+Purchased Used, dirty pickup for 20059.0 cost
+Purchased Used, clean MonsterTruck for 19304.0 cost
+Opening... (current budddget $-185792.29000000004)
+Purchased Used, dirty MonsterTruck for 42837.0 cost
+Washing with Elbow
+Intern John3494 washed vehicle dirty Ambulance AMBL11 and made it clean (earned $0.0 bonus)
+Intern John424 washed vehicle dirty Ambulance AMBL10 and made it clean (earned $0.0 bonus)
+Intern John424 washed vehicle clean MonsterTruck BigFoot 2 and made it sparkling (earned $3330.0 bonus)
+Washing with Detailed
+Intern John5080 washed vehicle dirty Ambulance AMBL11 and made it sparkling (earned $1688.4 bonus)
+Intern John5080 washed vehicle dirty Ambulance AMBL12 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack2156 repaired vehicle Broken car CA6785373 and made it Broken (earned $0.0 bonus)
+Mechanic Jack882 repaired vehicle Used Electric TSLA3417971 and made it LikeNew (earned $19.439999999999998 bonus)
+Mechanic Jack882 repaired vehicle Broken MonsterTruck BigFoot 4 and made it Used (earned $4994.4 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Used Electric TSLA6918411 and made it LikeNew (earned $71.76 bonus)
+Mechanic Jack3953 repaired vehicle Used car CA735959 and made it Used (earned $0.0 bonus)
+Mechanic Jack3953 repaired vehicle Used MonsterTruck BigFoot 2 and made it LikeNew (earned $8642.880000000001 bonus)
+Selling...
+Selling...
+SalesPerson Michael2305 sold clean Used car CA534157 to Buyer for $33526.4 (earned $1676.3200000000002 bonus)
+Racing...
+FNCD Vehicle BigFoot 2 is participating in the race with driver Max5397
+Driver Max5397 won their 1 race
+FNCD Vehicle BigFoot 2 won its 1 race.
+FNCD Vehicle BigFoot 3 is participating in the race with driver Max1908
+FNCD Vehicle BigFoot 3 came in 4 place
+FNCD Vehicle BigFoot 4 is participating in the race with driver Max9275
+FNCD Vehicle BigFoot 4 came in 10 place
+Racing...
+FNCD Vehicle BigFoot 1 is participating in the race with driver Max1175
+FNCD Vehicle BigFoot 1 came in 6 place
+FNCD Vehicle BigFoot 2 is participating in the race with driver Max9561
+FNCD Vehicle BigFoot 2 came in 7 place
+FNCD Vehicle BigFoot 3 is participating in the race with driver Max5260
+Driver Max5260 won their 1 race
+FNCD Vehicle BigFoot 3 won its 1 race.
+Tracker : Day3
+Total money earned by all Staff : $109738.35840000003
+Total money earned by the FNCD : $33526.4

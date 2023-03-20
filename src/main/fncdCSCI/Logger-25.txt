@@ -1,0 +1,35 @@
+
+****FNCD Day: 25****
+
+Opening... (current budddget $1538559.3482500007)
+Purchased Used, dirty pickup for 24191.2 cost
+Purchased Used, clean MonsterTruck for 34824.0 cost
+Opening... (current budddget $789450.6966000001)
+Purchased Used, dirty car for 28666.4 cost
+Purchased Used, dirty car for 28025.600000000002 cost
+Washing with Detailed
+Intern John3494 washed vehicle dirty MonsterTruck BigFoot 1 and made it clean (earned $0.0 bonus)
+Intern John33 washed vehicle dirty MonsterTruck BigFoot 1 and made it clean (earned $0.0 bonus)
+Intern John3494 washed vehicle dirty pickup PU4162622 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John8959 washed vehicle clean car CA9367060 and made it sparkling (earned $705.5 bonus)
+Intern John8959 washed vehicle dirty MonsterTruck BigFoot 1 and made it sparkling (earned $2288.5 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $5791.2 bonus)
+Mechanic Jack882 repaired vehicle Used car CA6828932 and made it Used (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6903.599999999999 bonus)
+Mechanic Jack3001 repaired vehicle Broken performancecar PE1330051 and made it Used (earned $5301.0 bonus)
+Selling...
+SalesPerson Michael378 sold clean Used MonsterTruck BigFoot 1 to Buyer for $69648.0 (earned $3482.4 bonus)
+SalesPerson Michael378 sold dirty Used MonsterTruck BigFoot 1 to Buyer for $57912.0 (earned $1930.4 bonus)
+Selling...
+SalesPerson Michael6631 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $84680.0 (earned $4234.0 bonus)
+SalesPerson Michael2305 sold dirty Used car CA6245893 to Buyer for $57332.8 (earned $2866.6400000000003 bonus)
+SalesPerson Michael2305 sold dirty Used car CA3405684 to Buyer for $56051.200000000004 (earned $2802.5600000000004 bonus)
+Mechanics John1819 has quit the FNCD
+Intern John4999 has been hired to replace Mechanics John1819
+Intern John1219 has quit the FNCD
+Tracker : Day25
+Total money earned by all Staff : $247210.64
+Total money earned by the FNCD : $335989.664

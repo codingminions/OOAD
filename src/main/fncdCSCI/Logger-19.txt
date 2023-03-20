@@ -1,0 +1,36 @@
+
+****FNCD Day: 19****
+
+Opening... (current budddget $1102530.9450000005)
+Purchased Used, dirty MonsterTruck for 46937.0 cost
+Purchased Used, dirty MonsterTruck for 22567.0 cost
+Opening... (current budddget $617493.5066000002)
+Purchased Used, clean car for 9368.0 cost
+Purchased Used, dirty car for 14981.5 cost
+Purchased Used, clean MonsterTruck for 24949.600000000002 cost
+Washing with Detailed
+Intern John3494 washed vehicle clean pickup PU962734 and made it sparkling (earned $2262.5 bonus)
+Intern John3494 washed vehicle dirty SkateBoard SK 20 and made it clean (earned $0.0 bonus)
+Washing with Elbow
+Intern John1219 washed vehicle clean Ambulance AMBL10 and made it dirty (earned $0.0 bonus)
+Intern John8959 washed vehicle dirty SkateBoard SK 24 and made it sparkling (earned $1088.6000000000001 bonus)
+Intern John8959 washed vehicle clean Ambulance AMBL11 and made it sparkling (earned $1688.4 bonus)
+Repairing...
+Mechanic Jack2156 repaired vehicle Broken performancecar PE6837705 and made it Used (earned $4394.849999999999 bonus)
+Mechanic Jack882 repaired vehicle Used MonsterTruck BigFoot 1 and made it LikeNew (earned $8679.84 bonus)
+Mechanic Jack882 repaired vehicle Used car CA9201985 and made it Used (earned $0.0 bonus)
+Repairing...
+Mechanic Jack3001 repaired vehicle Used Bus BS 15 and made it LikeNew (earned $2982.45 bonus)
+Mechanic Jack3001 repaired vehicle Broken MotorCycle MC8654220 and made it Used (earned $2528.4 bonus)
+Selling...
+SalesPerson Michael9316 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $93874.0 (earned $4693.7 bonus)
+SalesPerson Michael7841 sold dirty LikeNew MonsterTruck BigFoot 1 to Buyer for $72332.0 (earned $2893.2800000000007 bonus)
+Selling...
+SalesPerson Michael2305 sold dirty Broken car CA7916349 to Buyer for $29963.0 (earned $1498.15 bonus)
+SalesPerson Michael3680 sold dirty LikeNew performancecar PE9193568 to Buyer for $71032.0 (earned $3551.6000000000004 bonus)
+SalesPerson Michael6631 sold sparkling LikeNew performancecar PE3292745 to Buyer for $42810.0 (earned $1141.6000000000001 bonus)
+Salespeople Michael378 has quit the FNCD
+Intern John424 has been hired to replace Salespeople Michael378
+Tracker : Day19
+Total money earned by all Staff : $217614.24000000002
+Total money earned by the FNCD : $346139.77

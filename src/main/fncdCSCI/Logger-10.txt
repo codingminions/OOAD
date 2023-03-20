@@ -1,0 +1,45 @@
+
+****FNCD Day: 10****
+
+Opening... (current budddget $452339.6089999999)
+Purchased Used, dirty MonsterTruck for 22231.0 cost
+Purchased Used, dirty MonsterTruck for 35259.200000000004 cost
+Opening... (current budddget $105419.39159999997)
+Purchased Used, dirty MonsterTruck for 22885.0 cost
+Washing with Elbow
+Intern John424 washed vehicle dirty MotorCycle MC1248331 and made it clean (earned $0.0 bonus)
+Intern John3494 washed vehicle clean Ambulance AMBL10 and made it dirty (earned $0.0 bonus)
+Intern John424 washed vehicle dirty Electric TSLA6975208 and made it clean (earned $0.0 bonus)
+Washing with Chemical
+Intern John5080 washed vehicle dirty MonsterTruck BigFoot 6 and made it clean (earned $0.0 bonus)
+Repairing...
+Mechanic Jack882 repaired vehicle Used Electric TSLA1347184 and made it LikeNew (earned $48.480000000000004 bonus)
+Mechanic Jack882 repaired vehicle Broken SkateBoard SK 19 and made it Used (earned $4368.45 bonus)
+Repairing...
+Mechanic Jack2098 repaired vehicle Used car CA3133432 and made it LikeNew (earned $2875.2 bonus)
+Mechanic Jack2098 repaired vehicle Broken MonsterTruck BigFoot 1 and made it Used (earned $6865.5 bonus)
+Selling...
+SalesPerson Michael7841 sold dirty Used MonsterTruck BigFoot 2 to Buyer for $70518.40000000001 (earned $3525.9200000000005 bonus)
+Selling...
+SalesPerson Michael2305 sold dirty LikeNew car CA3133432 to Buyer for $35940.0 (earned $958.4000000000001 bonus)
+SalesPerson Michael2305 sold clean LikeNew car CA9902819 to Buyer for $23144.0 (earned $1157.2 bonus)
+Racing...
+FNCD Vehicle PE6440027 is participating in the race with driver Max1908
+FNCD Vehicle PE6440027 came in 4 place
+FNCD Vehicle PE6663728 is participating in the race with driver Max9275
+FNCD Vehicle PE6663728 came in 9 place
+FNCD Vehicle PE3845270 is participating in the race with driver Max4098
+FNCD Vehicle PE3845270 came in 8 place
+Racing...
+FNCD Vehicle PE7652004 is participating in the race with driver Max1175
+Driver Max1175 is injured
+FNCD Vehicle PE7652004 broke down in the race event
+FNCD Vehicle PE3292745 is participating in the race with driver Max5260
+FNCD Vehicle PE3292745 came in 4 place
+FNCD Vehicle PE3232969 is participating in the race with driver Max9561
+FNCD Vehicle PE3232969 broke down in the race event
+Salespeople Michael3680 has quit the FNCD
+Intern John9136 has been hired to replace Salespeople Michael3680
+Tracker : Day10
+Total money earned by all Staff : $127625.95999999998
+Total money earned by the FNCD : $138200.768

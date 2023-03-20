@@ -1,0 +1,35 @@
+
+****FNCD Day: 22****
+
+Opening... (current budddget $1223970.8830000008)
+Purchased Used, dirty MonsterTruck for 20831.5 cost
+Opening... (current budddget $749351.3666000003)
+Hired Inten John1819
+Purchased Used, clean car for 39838.0 cost
+Purchased Used, dirty MonsterTruck for 42340.0 cost
+Washing with Elbow
+Intern John33 washed vehicle dirty SkateBoard SK 22 and made it clean (earned $0.0 bonus)
+Intern John33 washed vehicle clean Bus BS 16 and made it sparkling (earned $1855.3000000000002 bonus)
+Washing with Detailed
+Intern John1219 washed vehicle dirty MonsterTruck BigFoot 1 and made it sparkling (earned $3242.8800000000006 bonus)
+Intern John1219 washed vehicle dirty Ambulance AMBL10 and made it sparkling (earned $717.9000000000001 bonus)
+Repairing...
+Mechanic Jack2156 repaired vehicle Used performancecar PE6837705 and made it Used (earned $0.0 bonus)
+Mechanic Jack882 repaired vehicle Used SkateBoard SK 23 and made it LikeNew (earned $4396.65 bonus)
+Mechanic Jack2156 repaired vehicle Used Ambulance AMBL7 and made it LikeNew (earned $4753.68 bonus)
+Repairing...
+Mechanic John7266 repaired vehicle Used MotorCycle MC8654220 and made it LikeNew (earned $2528.4 bonus)
+Mechanic John7266 repaired vehicle Used pickup PU3180458 and made it LikeNew (earned $5958.0 bonus)
+Selling...
+SalesPerson Michael7841 sold sparkling LikeNew pickup PU7730982 to Buyer for $56302.0 (earned $2815.1000000000004 bonus)
+SalesPerson Michael9316 sold dirty LikeNew SkateBoard SK 23 to Buyer for $54958.125 (earned $1465.5500000000002 bonus)
+SalesPerson Michael378 sold dirty LikeNew SkateBoard SK 23 to Buyer for $54958.125 (earned $1465.5500000000002 bonus)
+SalesPerson Michael9316 sold clean LikeNew performancecar PE3593866 to Buyer for $45830.0 (earned $2291.5 bonus)
+Selling...
+SalesPerson Michael2305 sold clean LikeNew car CA5852349 to Buyer for $79676.0 (earned $3983.8 bonus)
+SalesPerson Michael6631 sold sparkling Broken car CA5694272 to Buyer for $20149.0 (earned $1007.45 bonus)
+Mechanics Jack2156 has quit the FNCD
+Intern John9497 has been hired to replace Mechanics Jack2156
+Tracker : Day22
+Total money earned by all Staff : $233741.76000000007
+Total money earned by the FNCD : $315604.95
