@@ -27,6 +27,15 @@ Factory pattern : the factory pattern was used to create multiple instances of d
 
 Singleton pattern : The singleton pattern was used to ensure that only one instance of logger and tracker were created.
 
+**--Test Run--**
+Test Cases can be found in src/main/fncdCSCI/FNCDTest.java. The successful run of the test cases can be checked through
+[a relative link](TestCasesSuccessfulRun.png) file. These Junit test cases were exexuted in the VS code IDE.
+To replicate the same, go to Testing: Click on Manage Java Tests, this will download the required Junit jar file in the 
+lib folder. Then, click on Run and Debug without any checkpoint and then switch back to Testing to check the result of the test
+run. 
+The tests can also be executed through Maven build, but that proved to be unintuitive for us, setting up pom.xml file and making sure
+the Maven builds can pull all the required Jar files from the classpath. In case, any user wants to run these test cases through Maven, the official documentation to set it up should be a good start.
+
 **--OO ELEMENTS--**
 1. Inheritance: Example of Inheritance: Opening class inherits from the FNCD class (Opening.java)
 2. Abstraction: The end user doesn't need to know the details of the operations and hence this is a good examples of Abstraction. (Main.java).
